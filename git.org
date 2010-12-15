@@ -1,0 +1,4 @@
+
+* git resources
+** submodule
+https://git.wiki.kernel.org/index.php/GitSubmoduleTutorial
