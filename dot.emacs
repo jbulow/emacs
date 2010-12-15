@@ -1,8 +1,13 @@
+(setq load-path (cons "~/emacs/org-7.01h/lisp" load-path))
+(setq load-path (cons "~/emacs/org-7.01h/contrib/lisp" load-path))
+(require 'org-latex)
+
 (custom-set-variables
   ;; custom-set-variables was added by Custom.
   ;; If you edit it by hand, you could mess it up, so be careful.
   ;; Your init file should contain only one such instance.
   ;; If there is more than one, they won't work right.
+ '(make-backup-files nil)
  '(ns-command-modifier (quote meta))
  '(show-paren-mode t))
 (custom-set-faces
@@ -14,127 +19,141 @@
 
 (setq mac-option-modifier 'none)
 (setq inhibit-startup-message t)
-
 (setq require-final-newline t)
-
 (fset 'yes-or-no-p 'y-or-n-p)
-
 (setq-default indent-tabs-mode nil)
-
 (transient-mark-mode t)
-
 (setq query-replace-highlight t)
-
 (setq default-major-mode 'text-mode) 
-
-;; allow recursive editing in minibuffer
-;; (setq enable-recursive-minibuffers t) 
-
-(require 'uniquify)
-(setq uniquify-buffer-name-style                          'reverse)
 
 ; Moving cursor down at bottom scrolls only a single line, not half page
 (setq scroll-step 1)
 (setq scroll-conservatively 5)
 
-;; will make "Ctrl-k" kills an entire line if the cursor is at the beginning of line -- very useful.
+;; will make "Ctrl-k" kills an entire line if the cursor is at the beginning of line 
 (setq kill-whole-line t) 
 
-;; will delete "hungrily" in C mode! Use it to see what it does -- very useful.
+;; will delete "hungrily" in C mode
 (setq c-hungry-delete-key t)
 
-;;  will let emacs put in a "carriage-return" for you automatically
-;;  after left curly braces, right curly braces, and semi-colons in "C
-;;  mode" -- very useful.
+(require 'uniquify)
+(setq uniquify-buffer-name-style 'reverse)
 
-(setq c-auto-newline 1)
+(defvar emacs-root (cond ((eq system-type 'darwin) "~/")
+                         ((eq system-type 'cygwin) "~/")
+                         ((eq system-type 'gnu/linux) "~/")
+                         ((eq system-type 'windows-nt) "c:/")
+ "My home directory - the root of my personal emacs load-path."))
 
-(add-hook 'c-mode-common-hook
-          '(lambda ()
-             (turn-on-auto-fill)
-             (setq fill-column 80)
-             (setq comment-column 60)
-             (modify-syntax-entry ?_ "w")       ; now '_' is not considered a word-delimiter
-             (c-set-style "ellemtel")           ; set indentation style
-             (local-set-key [(control tab)]     ; move to next tempo mark
-                            'tempo-forward-mark)
-             ))
+(require 'cl) ;; Common Lisp 
+(labels ((add-path (p)
+	 (add-to-list 'load-path
+			(concat emacs-root p))))
+  (add-path ".emacs.d")
+  (add-path ".emacs.d/auto-complete")
+  (add-path ".emacs.d/yasnippet-0.6.1c"))
 
-(setq auto-mode-alist
-      (append '(("\\.h$" . c++-mode)) auto-mode-alist))
+;; (global-set-key (quote [C-tab]) (quote next-buffer))
+;; (global-set-key (quote [C-S-tab]) (quote previous-buffer))
+(global-set-key (quote [S-tab]) (quote other-window))
 
+;;; auto-complete
+(require 'auto-complete-config)
+(add-to-list 'ac-dictionary-directories "~/.emacs.d/auto-complete/ac-dict")
+(ac-config-default)
+(ac-set-trigger-key "TAB")
 
-(setq ps-lpr-command "/Users/jonas/bin/ps_print_file.sh")
+;;; yasnippet
+(require 'yasnippet) 
+(setq yas/trigger-key (kbd "C-c <kp-multiply>"))
+(yas/initialize)
+(yas/load-directory (concat emacs-root ".emacs.d/yasnippet-0.6.1c/snippets"))
 
-(add-to-list 'load-path "/Users/jonas/emacs" t)
-(require 'go-mode-load)
-
-
-;;(require 'tex-site)
-
-(add-to-list 'load-path "/Applications/MacPorts/Emacs.app/Contents/Resources/lisp/" t)
-
-(load "auctex.el" nil t t)
-(load "preview-latex.el" nil t t)
-
-(add-hook 'LaTeX-mode-hook '(lambda ()
-                 (TeX-fold-mode 1)
-                 (outline-minor-mode 1)
-                   ))
-
-(add-hook 'LaTeX-mode-hook '(lambda () (setq fill-column 72)))
-(add-hook 'LaTeX-mode-hook 'TeX-PDF-mode)
-(add-hook 'LaTeX-mode-hook '(lambda () (setq TeX-DVI-via-PDFTeX t)))
-
-(server-start)
-;; (add-hook 'server-switch-hook
-;;  	  (lambda nil
-;;  	    (let ((sevrver-buf (current-buffer)))
-;; 	      (bury-buffer)
-;;  	      (switch-to-buffer-other-frame server-buf))))
-
-;; (add-hook 'server-done-hook (lambda nil (kill-buffer nil)))
-
- (setq TeX-output-view-style
-	  (quote
-	   (
-	    ("^dvi$" "." "/Applications/MacPorts/Emacs.app/Contents/MacOS/bin/emacsclient %o")
-	    ("^pdf$" "." "/Applications/MacPorts/Emacs.app/Contents/MacOS/bin/emacsclient %o")
-	    ("^html?$" "." "open -A Safari.app %o")
-	    )
-	   )
-)
-
-
+;;; Ido mode
 (require 'ido)
 (ido-mode t)
+(setq ido-enable-flex-matching t) ;; enable fuzzy matching
 
- (defvar ido-enable-replace-completing-read t
-   "If t, use ido-completing-read instead of completing-read if possible.
-    
-    Set it to nil using let in around-advice for functions where the
-    original completing-read is required.  For example, if a function
-    foo absolutely must use the original completing-read, define some
-    advice like this:
-    
-    (defadvice foo (around original-completing-read-only activate)
-      (let (ido-enable-replace-completing-read) ad-do-it))")
+;;; Python stuff
+;; (autoload 'python-mode "python-mode" "Python Mode." t)
+;; (add-to-list 'auto-mode-alist '("\\.py\\'" . python-mode))
+;; (add-to-list 'interpreter-mode-alist '("python" . python-mode))
+;; (load-library "init_python")
 
-;; Replace completing-read wherever possible, unless directed otherwise
-(defadvice completing-read
-  (around use-ido-when-possible activate)
-  (if (or (not ido-enable-replace-completing-read) ; Manual override disable ido
-          (boundp 'ido-cur-list)) ; Avoid infinite loop from ido calling this
-      ad-do-it
-    (let ((allcomp (all-completions "" collection predicate)))
-      (if allcomp
-          (setq ad-return-value
-                (ido-completing-read prompt
-                                     allcomp
-                                     nil require-match initial-input hist def))
-        ad-do-it))))
+;; ----------------------------------------------------------- [ ibuffer ]
+;; *Nice* buffer switching
+(global-set-key (kbd "C-x C-b") 'ibuffer)
+
+(setq ibuffer-show-empty-filter-groups nil)
+(setq ibuffer-saved-filter-groups
+      '(("default"
+         ("version control" (or (mode . svn-status-mode)
+                    (mode . svn-log-edit-mode)
+                    (name . "^\\*svn-")
+                    (name . "^\\*vc\\*$")
+                    (name . "^\\*Annotate")
+                    (name . "^\\*git-")
+                    (name . "^\\*vc-")))
+         ("emacs" (or (name . "^\\*scratch\\*$")
+                      (name . "^\\*Messages\\*$")
+                      (name . "^TAGS\\(<[0-9]+>\\)?$")
+                      (name . "^\\*Help\\*$")
+                      (name . "^\\*info\\*$")
+                      (name . "^\\*Occur\\*$")
+                      (name . "^\\*grep\\*$")
+                      (name . "^\\*Compile-Log\\*$")
+                      (name . "^\\*Backtrace\\*$")
+                      (name . "^\\*Process List\\*$")
+                      (name . "^\\*gud\\*$")
+                      (name . "^\\*Man")
+                      (name . "^\\*WoMan")
+                      (name . "^\\*Kill Ring\\*$")
+                      (name . "^\\*Completions\\*$")
+                      (name . "^\\*tramp")
+                      (name . "^\\*shell\\*$")
+                      (name . "^\\*compilation\\*$")))
+         ("emacs source" (or (mode . emacs-lisp-mode)
+                             (filename . "/Applications/Emacs.app")
+                             (filename . "/bin/emacs")))
+         ("agenda" (or (name . "^\\*Calendar\\*$")
+                       (name . "^diary$")
+                       (name . "^\\*Agenda")
+                       (name . "^\\*org-")
+                       (name . "^\\*Org")
+                       (mode . org-mode)
+                       (mode . muse-mode)))
+         ("latex" (or (mode . latex-mode)
+                      (mode . LaTeX-mode)
+                      (mode . bibtex-mode)
+                      (mode . reftex-mode)))
+         ("dired" (or (mode . dired-mode))))))
+
+(add-hook 'ibuffer-mode-hook
+          (lambda ()
+            (ibuffer-switch-to-saved-filter-groups "default")))
+
+;; Order the groups so the order is : [Default], [agenda], [emacs]
+(defadvice ibuffer-generate-filter-groups (after reverse-ibuffer-groups ()
+                                                 activate)
+  (setq ad-return-value (nreverse ad-return-value)))
 
 
 
-;; Factor
-(load-file "/Applications/factor//misc/fuel/fu.el")
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+(require 'pager)
+(global-set-key "\C-v"     'pager-page-down)
+(global-set-key [next]     'pager-page-down)
+(global-set-key "\ev"      'pager-page-up)
+(global-set-key [prior]    'pager-page-up)
+(global-set-key '[M-up]    'pager-row-up)
+(global-set-key '[M-kp-8]  'pager-row-up)
+(global-set-key '[M-down]  'pager-row-down)
+(global-set-key '[M-kp-2]  'pager-row-down)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+(global-set-key '[S-f7]  'compile)
+
+
