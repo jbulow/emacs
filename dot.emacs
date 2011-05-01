@@ -1,6 +1,12 @@
-(setq load-path (cons "~/emacs/org-7.01h/lisp" load-path))
-(setq load-path (cons "~/emacs/org-7.01h/contrib/lisp" load-path))
+; -*- mode: Lisp; tab-width: 2; -*-
+(setq load-path (cons "~/emacs/org-7.5/lisp" load-path))
+(setq load-path (cons "~/emacs/org-7.5/contrib/lisp" load-path))
+(require 'org-install)
 (require 'org-latex)
+(global-set-key "\C-cl" 'org-store-link)
+(global-set-key "\C-cc" 'org-capture)
+(global-set-key "\C-ca" 'org-agenda)
+(global-set-key "\C-cb" 'org-iswitchb)
 
 (custom-set-variables
   ;; custom-set-variables was added by Custom.
@@ -157,3 +163,8 @@
 (global-set-key '[S-f7]  'compile)
 
 
+;; Haskell
+
+(load "~/emacs/haskell-mode-2.8.0/haskell-site-file")
+(add-hook 'haskell-mode-hook 'turn-on-haskell-doc-mode)
+(add-hook 'haskell-mode-hook 'turn-on-haskell-indentation)
