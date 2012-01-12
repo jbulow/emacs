@@ -1,6 +1,26 @@
+(defvar home-dir (cond ((eq system-type 'darwin) "~/")
+                       ((eq system-type 'cygwin) "~/")
+                       ((eq system-type 'gnu/linux) "~/")
+                       ((eq system-type 'windows-nt) "~/")
+;;                       ((eq system-type 'windows-nt) (concat "c:/Users/" user-login-name))
+		       "My home directory"))
+(setq default-directory home-dir)
+
+(require 'cl) ;; Common Lisp 
+
+(defvar emacs-root (concat home-dir "emacs/")
+  "My home directory - the root of my personal emacs load-path.")
+(labels ((add-path (p)
+		   (add-to-list 'load-path
+				(concat emacs-root p))))
+  (add-path "org-7.5/lisp")
+  (add-path "org-7.5/contrib/lisp")
+  (add-path "yasnippet"))
+
+
+
+
 ; -*- mode: Lisp; tab-width: 2; -*-
-(setq load-path (cons "~/emacs/org-7.5/lisp" load-path))
-(setq load-path (cons "~/emacs/org-7.5/contrib/lisp" load-path))
 (require 'org-install)
 (require 'org-latex)
 (global-set-key "\C-cl" 'org-store-link)
@@ -45,35 +65,22 @@
 (require 'uniquify)
 (setq uniquify-buffer-name-style 'reverse)
 
-(defvar emacs-root (cond ((eq system-type 'darwin) "~/")
-                         ((eq system-type 'cygwin) "~/")
-                         ((eq system-type 'gnu/linux) "~/")
-                         ((eq system-type 'windows-nt) "c:/")
- "My home directory - the root of my personal emacs load-path."))
-
-(require 'cl) ;; Common Lisp 
-(labels ((add-path (p)
-	 (add-to-list 'load-path
-			(concat emacs-root p))))
-  (add-path ".emacs.d")
-  (add-path ".emacs.d/auto-complete")
-  (add-path ".emacs.d/yasnippet-0.6.1c"))
 
 ;; (global-set-key (quote [C-tab]) (quote next-buffer))
 ;; (global-set-key (quote [C-S-tab]) (quote previous-buffer))
 (global-set-key (quote [S-tab]) (quote other-window))
 
 ;;; auto-complete
-(require 'auto-complete-config)
-(add-to-list 'ac-dictionary-directories "~/.emacs.d/auto-complete/ac-dict")
-(ac-config-default)
-(ac-set-trigger-key "TAB")
+;; (require 'auto-complete-config)
+;; (add-to-list 'ac-dictionary-directories "~/.emacs.d/auto-complete/ac-dict")
+;; (ac-config-default)
+;; (ac-set-trigger-key "TAB")
 
 ;;; yasnippet
 (require 'yasnippet) 
 (setq yas/trigger-key (kbd "C-c <kp-multiply>"))
 (yas/initialize)
-(yas/load-directory (concat emacs-root ".emacs.d/yasnippet-0.6.1c/snippets"))
+;;(yas/load-directory (concat emacs-root ".emacs.d/yasnippet-0.6.1c/snippets"))
 
 ;;; Ido mode
 (require 'ido)
