@@ -95,7 +95,7 @@
 (require 'yasnippet) 
 (setq yas/trigger-key (kbd "C-c <kp-multiply>"))
 (yas/initialize)
-;;(yas/load-directory (concat emacs-root ".emacs.d/yasnippet-0.6.1c/snippets"))
+(yas/load-directory (concat emacs-root "yasnippet/snippets"))
 
 ;;; Ido mode
 (require 'ido)
