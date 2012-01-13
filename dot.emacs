@@ -10,12 +10,25 @@
 
 (defvar emacs-root (concat home-dir "emacs/")
   "My home directory - the root of my personal emacs load-path.")
+
 (labels ((add-path (p)
 		   (add-to-list 'load-path
 				(concat emacs-root p))))
+  (add-path "")
   (add-path "org-7.5/lisp")
   (add-path "org-7.5/contrib/lisp")
   (add-path "yasnippet"))
+
+
+(defun prepend-exec-path (path)
+  ""
+  (let ((path_w_colon (concat path ":")))
+    (setenv "PATH" (concat path_w_colon (getenv "PATH")))
+    (setq exec-path (cons path_w_colon exec-path ))))
+
+
+(if (file-directory-p "C:/Program Files (x86)/Gow/bin")
+    (prepend-exec-path "C:/Program Files (x86)/Gow/bin"))
 
 
 
@@ -175,3 +188,5 @@
 (load "~/emacs/haskell-mode-2.8.0/haskell-site-file")
 (add-hook 'haskell-mode-hook 'turn-on-haskell-doc-mode)
 (add-hook 'haskell-mode-hook 'turn-on-haskell-indentation)
+
+(server-start)
