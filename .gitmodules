@@ -1,6 +1,0 @@
-[submodule "org-mode"]
-	path = org-mode
-	url = git://repo.or.cz/org-mode.git
-[submodule "auctex"]
-	path = auctex
-	url = https://github.com/kjhealy/auctex.git
