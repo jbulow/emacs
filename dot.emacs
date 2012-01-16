@@ -20,20 +20,13 @@
 
 ;; Source:  http://www-db.stanford.edu/~manku/dotemacs.html
 
-;;(setq require-final-newline t)
 (fset 'yes-or-no-p 'y-or-n-p)
 
-;; (setq next-line-add-newlines nil) will disallow creation of new lines when you press the "arrow-down key" at end of the buffer. 
 
-;;  load auto-show (shows lines when cursor moves to right of long line).
-;;(require 'auto-show) (auto-show-mode 1) (setq-default auto-show-mode t)
 
 ;; will introduce spaces instead of tabs by default.
 (setq-default indent-tabs-mode nil)
 (setq-default c-basic-offset 2)
-
-;; will position the cursor to end of output in shell mode.
-;;(auto-show-make-point-visible) 
 
 ;; will highlight during query.
 (setq query-replace-highlight t)
@@ -85,6 +78,7 @@
 ;; ;;             (modify-syntax-entry ?_ "w")       ; now '_' is not considered a word-delimiter
 ;;              ))
 
+;; Associate h files with c++-mode
 (setq auto-mode-alist
       (append '(("\\.h$" . c++-mode)) auto-mode-alist))
 
@@ -174,6 +168,7 @@
 ;; (global-set-key [f10]         ')
 ;; (global-set-key [S-f10]       ')
 ;; (global-set-key [f12]         'dabbrev-expand)
+(global-set-key [f12] 'ido-find-file-in-tag-files)
 ;; (define-key esc-map [f12]     'dabbrev-completion)
                                         ; for my pc @ home
 ;; (global-set-key [S-SPC] 'dabbrev-expand)
@@ -222,13 +217,6 @@
  '(current-language-environment "UTF-8")
  '(dabbrev-case-replace nil)
  '(default-input-method "rfc1345")
- '(ecb-compile-window-height 20)
- '(ecb-layout-window-sizes (quote ((#("left-analyse" 0 12 (face nil)) (0.26063829787234044 . 0.09090909090909091) (0.26063829787234044 . 0.12727272727272726) (0.26063829787234044 . 0.12727272727272726) (0.26063829787234044 . 0.6363636363636364)) (#("leftright-analyse" 0 17 (face nil)) (0.21030042918454936 . 0.3888888888888889) (0.21030042918454936 . 0.2916666666666667) (0.21030042918454936 . 0.3055555555555556) (0.3090128755364807 . 0.4861111111111111) (0.3090128755364807 . 0.5)))))
- '(ecb-options-version "2.32")
- '(ecb-other-window-behavior (quote only-edit))
- '(ecb-primary-secondary-mouse-buttons (quote mouse-1--mouse-2))
- '(ecb-source-path (quote ("/home/jonasbu/svn/DEV-INT2-HistDB/packages/commons/components/C3Po/nsp_servers/csc/logmanager")))
- '(ecb-vc-enable-support t)
  '(emacsw32-eol-check-new-files t)
  '(emacsw32-max-frames t)
  '(emacsw32-mode nil)
@@ -246,21 +234,24 @@
 ")
  '(icicle-reminder-prompt-flag 0)
  '(indent-region-mode t)
+ '(make-backup-files nil)
  '(menu-bar-mode t)
+ '(ns-command-modifier (quote meta))
  '(nxhtml-global-minor-mode t)
  '(nxhtml-global-validation-header-mode t)
  '(nxhtml-load t)
  '(pop-up-windows t)
  '(ps-paper-type (quote a4))
+ '(python-default-interpreter (quote cpython))
+ '(python-python-command "python3.1")
  '(recentf-mode t)
+ '(safe-local-variable-values (quote ((py-which-shell . "python3.1") (py-which-shell . "python3"))))
  '(show-paren-mode t nil (paren))
  '(split-width-threshold nil)
- '(tooltip-mode nil)
  '(tool-bar-mode nil)
+ '(tooltip-mode nil)
  '(uniquify-buffer-name-style (quote reverse) nil (uniquify))
- '(use-file-dialog nil)
- '(make-backup-files nil)
- '(ns-command-modifier (quote meta)))
+ '(use-file-dialog nil))
 (custom-set-faces
   ;; custom-set-faces was added by Custom.
   ;; If you edit it by hand, you could mess it up, so be careful.
@@ -511,7 +502,6 @@
       (ido-completing-read
        "Project file: " (tags-table-files) nil t)))))
 
-(global-set-key [f12] 'ido-find-file-in-tag-files)
 
 
 (defvar ido-enable-replace-completing-read nil
@@ -749,3 +739,32 @@
 
 (require 'uniquify)
 (setq uniquify-buffer-name-style 'reverse)
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; GYP support.  Requires python.el (as opposed to python-mode.el).
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+(require 'python)
+(when (string-match "python-mode.el" (symbol-file 'python-mode 'defun))
+  (error (concat "python-mode must be loaded from python.el (bundled with "
+                 "recent emacsen), not from the older and less maintained "
+                 "python-mode.el")))
+(defadvice python-calculate-indentation (after ami-outdent-closing-parens
+                                               activate)
+  "De-indent closing parens, braces, and brackets in python and derived modes."
+  (if (string-match "^ *[])}][],)}]* *$"
+                    (buffer-substring-no-properties (line-beginning-position)
+                                                    (line-end-position)))
+      (setq ad-return-value (- ad-return-value 2))))
+(define-derived-mode gyp-mode python-mode "Gyp"
+  "Major mode for editing .gyp files."
+  (setq python-continuation-offset 2
+        python-indent 2
+        python-guess-indent nil))
+(add-to-list 'auto-mode-alist '("\\.gyp\\'" . gyp-mode))
+(add-to-list 'auto-mode-alist '("\\.gypi\\'" . gyp-mode))
+
+;; Default to python3.1
+(add-hook 'python-mode-hook
+            (lambda ()
+              (setq py-python-command "python3.1")
+              (setq py-default-interpreter "python3.1")))
