@@ -1,3 +1,6 @@
+; -*- mode: Lisp;-*-
+;;; Emacs Load Path
+
 (defvar home-dir (cond ((eq system-type 'darwin) "~/")
                        ((eq system-type 'cygwin) "~/")
                        ((eq system-type 'gnu/linux) "~/")
@@ -221,5 +224,8 @@
 (load "~/emacs/haskell-mode-2.8.0/haskell-site-file")
 (add-hook 'haskell-mode-hook 'turn-on-haskell-doc-mode)
 (add-hook 'haskell-mode-hook 'turn-on-haskell-indentation)
+
+;; TeX
+(setq TeX-save-query nil) ;;autosave before compiling
 
 (server-start)
