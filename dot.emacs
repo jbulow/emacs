@@ -23,7 +23,7 @@
   (add-path "")
   (add-path "org-7.8.01/lisp")
   (add-path "org-7.8.01/contrib/lisp")
-  (add-path "yasnippet")
+  (add-path "yasnippet-0.6.1c")
   (add-path "auctex-11.86"))
 
 
@@ -248,7 +248,7 @@
 (require 'yasnippet) 
 (setq yas/trigger-key (kbd "C-c <kp-multiply>"))
 (yas/initialize)
-(yas/load-directory (concat emacs-root "yasnippet/snippets"))
+(yas/load-directory (concat emacs-root "yasnippet-0.6.1c/snippets"))
 
 ;;
 ;; Ido mode
