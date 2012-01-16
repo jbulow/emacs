@@ -82,7 +82,9 @@
  '(make-backup-files nil)
  '(ns-command-modifier (quote meta))
  '(show-paren-mode t)
- '(size-indication-mode t))
+ '(size-indication-mode t)
+ '(tool-bar-mode nil)
+ )
 
 (custom-set-faces
   ;; custom-set-faces was added by Custom.
