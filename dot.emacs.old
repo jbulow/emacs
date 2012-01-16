@@ -667,3 +667,42 @@
 
 
 ;;(setq icicle-define-alias-commands-flag nil)
+
+
+=======
+(setq load-path (cons "~/emacs/org-7.01h/lisp" load-path))
+(setq load-path (cons "~/emacs/org-7.01h/contrib/lisp" load-path))
+(require 'org-install)
+
+
+;; Fonts
+(if (>= emacs-major-version 23)
+    (set-default-font "Monospace-10"))
+
+(setq inhibit-splash-screen t)
+(setq inhibit-startup-message t)
+
+;; default to better frame titles
+(setq frame-title-format
+      (concat  "%b - emacs@" system-name))
+
+;; Source:  http://www-db.stanford.edu/~manku/dotemacs.html
+
+(fset 'yes-or-no-p 'y-or-n-p)
+
+
+
+;; will introduce spaces instead of tabs by default.
+(setq-default indent-tabs-mode nil)
+(setq-default c-basic-offset 2)
+
+;; will highlight during query.
+(setq query-replace-highlight t)
+
+;;highlight incremental search
+(setq search-highlight t) 
+
+;; will make text-mode default.
+(setq default-major-mode 'text-mode) 
+>>>>>>> added gyp support
+
