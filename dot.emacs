@@ -78,13 +78,15 @@
   ;; If you edit it by hand, you could mess it up, so be careful.
   ;; Your init file should contain only one such instance.
   ;; If there is more than one, they won't work right.
+ '(TeX-view-predicate-list (quote ((darwin-system (eq system-type (quote darwin))) (linux-system (eq system-type (quote gnu/linux))))))
+ '(TeX-view-program-list (quote (("Open" "open %o"))))
+ '(TeX-view-program-selection (quote (((output-dvi style-pstricks) "dvips and gv") (output-dvi "xdvi") ((output-pdf linux-system) "Evince") (output-html "xdg-open") ((output-pdf darwin-system) "Open"))))
  '(column-number-mode t)
  '(make-backup-files nil)
  '(ns-command-modifier (quote meta))
  '(show-paren-mode t)
  '(size-indication-mode t)
- '(tool-bar-mode nil)
- )
+ '(tool-bar-mode nil))
 
 (custom-set-faces
   ;; custom-set-faces was added by Custom.
@@ -416,11 +418,6 @@
 (load "~/emacs/haskell-mode-2.8.0/haskell-site-file")
 (add-hook 'haskell-mode-hook 'turn-on-haskell-doc-mode)
 (add-hook 'haskell-mode-hook 'turn-on-haskell-indentation)
-
-;;
-;; TeX
-;;
-(setq TeX-save-query nil) ;;autosave before compiling
 
 ;;
 ;; gnuplot
@@ -967,40 +964,41 @@
 (load "auctex.el" nil t t)
 (load "preview-latex.el" nil t t)
 
+(setq TeX-save-query nil) ;;autosave before compiling
+
 (add-hook 'LaTeX-mode-hook '(lambda ()
-                 (TeX-fold-mode 1)
-                 (outline-minor-mode 1)
-                   ))
+                              (TeX-fold-mode 1)
+                              (outline-minor-mode 1)
+                              ))
 
 (add-hook 'LaTeX-mode-hook '(lambda () (setq fill-column 72)))
-(add-hook 'LaTeX-mode-hook 'TeX-PDF-mode)
-(add-hook 'LaTeX-mode-hook '(lambda () (setq TeX-DVI-via-PDFTeX t)))
+;;(add-hook 'LaTeX-mode-hook '(lambda () (setq TeX-DVI-via-PDFTeX t)))
 
  	
-(setq TeX-auto-save t)
-(setq TeX-parse-self t)
-(setq-default TeX-master nil)
+;; (setq TeX-auto-save t)
+;; (setq TeX-parse-self t)
+;; (setq-default TeX-master nil)
 
 
-;;(require 'tex-site)
+;; (require 'tex-site)
 ;; (server-start)
 ;; (add-hook 'server-switch-hook
-;;  	  (lambda nil
-;;  	    (let ((sevrver-buf (current-buffer)))
-;; 	      (bury-buffer)
-;;  	      (switch-to-buffer-other-frame server-buf))))
+;;           (lambda nil
+;;             (let ((sevrver-buf (current-buffer)))
+;;               (bury-buffer)
+;;               (switch-to-buffer-other-frame server-buf))))
 
 ;; (add-hook 'server-done-hook (lambda nil (kill-buffer nil)))
 
 ;; (setq TeX-output-view-style
 ;;       (quote
-;;        (
-;;         ("^dvi$" "." "/Applications/MacPorts/Emacs.app/Contents/MacOS/bin/emacsclient %o")
-;;         ("^pdf$" "." "/Applications/MacPorts/Emacs.app/Contents/MacOS/bin/emacsclient %o")
-;;         ("^html?$" "." "open -A Safari.app %o")
+;;         (
+;;          ("^dvi$" "." "/Applications/MacPorts/Emacs.app/Contents/MacOS/bin/emacsclient %o")
+;;          ("^pdf$" "." "/Applications/MacPorts/Emacs.app/Contents/MacOS/bin/emacsclient %o")
+;;          ("^html?$" "." "open -A Safari.app %o")
+;;          )
 ;;         )
 ;;        )
-;;       )
 
 
 ;;

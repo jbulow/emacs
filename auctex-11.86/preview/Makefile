@@ -25,7 +25,7 @@
 
 PACKAGE=preview
 PACKAGE_INFO=preview-latex
-EMACS=/usr/bin/emacs
+EMACS=/Applications/MacPorts/Emacs.app/Contents/MacOS/Emacs
 ELCC=$(EMACS) -batch -q -no-site-file -no-init-file
 AUCTEX=-eval '(let ((dir (pop command-line-args-left))) \
   (if (not (string-equal dir "")) (push dir load-path)))' $(auctexdir) --eval '(push "." load-path)'
@@ -46,12 +46,12 @@ ICON_SOURCES = \
 prefix = /usr/local$(null)
 exec_prefix = ${prefix}$(null)
 libdir = ${exec_prefix}/lib$(null)
-packagedatadir = ${datadir}/emacs/site-lisp/auctex$(null)
+packagedatadir = /Applications/MacPorts/Emacs.app/Contents/Resources/site-lisp/auctex$(null)
 datarootdir = ${prefix}/share$(null)
 datadir = ${datarootdir}$(null)
-previewstartfile = ${datadir}/emacs/site-lisp/preview-latex.el
+previewstartfile = /Applications/MacPorts/Emacs.app/Contents/Resources/site-lisp/preview-latex.el
 packagedir = no$(null)
-packagelispdir = ${datadir}/emacs/site-lisp/auctex$(null)
+packagelispdir = /Applications/MacPorts/Emacs.app/Contents/Resources/site-lisp/auctex$(null)
 auctexdir = ..$(null)
 DESTDIR=
 

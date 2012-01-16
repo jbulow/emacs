@@ -27,15 +27,15 @@
 prefix = /usr/local$(null)
 exec_prefix = ${prefix}$(null)
 libdir = ${exec_prefix}/lib$(null)
-packagedatadir = ${datadir}/emacs/site-lisp/auctex$(null)
+packagedatadir = /Applications/MacPorts/Emacs.app/Contents/Resources/site-lisp/auctex$(null)
 datarootdir = ${prefix}/share$(null)
 datadir = ${datarootdir}$(null)
 localstatedir = ${prefix}/var$(null)
 infodir = ${datarootdir}/info$(null)
-lispdir = ${datadir}/emacs/site-lisp$(null)
-auctexstartfile=${datadir}/emacs/site-lisp/auctex.el
-packagelispdir = ${datadir}/emacs/site-lisp/auctex$(null)
-packagedatadir = ${datadir}/emacs/site-lisp/auctex$(null)
+lispdir = /Applications/MacPorts/Emacs.app/Contents/Resources/site-lisp$(null)
+auctexstartfile=/Applications/MacPorts/Emacs.app/Contents/Resources/site-lisp/auctex.el
+packagelispdir = /Applications/MacPorts/Emacs.app/Contents/Resources/site-lisp/auctex$(null)
+packagedatadir = /Applications/MacPorts/Emacs.app/Contents/Resources/site-lisp/auctex$(null)
 packagedir = no$(null)
 autodir = ${localstatedir}/auctex$(null)
 preview_enabled=yes
@@ -51,7 +51,7 @@ DESTDIR=
 
 PACKAGE=auctex
 PACKAGE_INFO=auctex preview-latex
-EMACS=/usr/bin/emacs
+EMACS=/Applications/MacPorts/Emacs.app/Contents/MacOS/Emacs
 ELCC=$(EMACS) -batch -q -no-site-file -no-init-file -l lpath.el
 AUTOLOAD=--eval '(let ((generated-autoload-file (expand-file-name "$@"))) \
   (mapcar (function update-file-autoloads) command-line-args-left) \
@@ -433,8 +433,8 @@ WEMACS=/usr/src/emacs-$(WEMACSVER)/src/emacs
 WAUCVER=11.85
 WPACKAGE=$(WBUILDDIR)/auctex-$(WAUCVER)-e$(WEMACSVER)-msw.zip
 WPACKAGEFILES=site-lisp/auctex site-lisp/site-start.d site-lisp/site-start.el \
-	site-lisp/tex-site.el var/auctex doc info/dir info/auctex.info \
-	info/preview-latex.info
+	site-lisp/tex-site.el var/auctex doc info/dir info/auctex.info 
+	
 
 windows-package:
 # Make sure the prerequisites are available

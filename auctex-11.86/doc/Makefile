@@ -27,20 +27,20 @@ datadir=${datarootdir}$(null)
 packagedir=no$(null)
 infodir=${datarootdir}/info$(null)
 docdir=${datarootdir}/doc/${PACKAGE_TARNAME}$(null)
-TEX=/usr/local/texlive/2011/bin/x86_64-linux/tex
-PDFTEX=/usr/local/texlive/2011/bin/x86_64-linux/pdftex
-MAKEINFO=/usr/bin/makeinfo
+TEX=/usr/texbin/tex
+PDFTEX=/usr/texbin/pdftex
+MAKEINFO=/opt/local/bin/makeinfo
 MAKEINFO_PLAIN=-D rawfile --no-headers
-INSTALL_INFO=/usr/sbin/install-info
+INSTALL_INFO=/opt/local/bin/install-info
 INSTALL=/usr/bin/install -c
 INSTALL_DATA=${INSTALL} -m 644
 DESTDIR=
-TEXI2HTML=:
-TEXI2DVI=/usr/bin/texi2dvi
-TEXI2PDF=/usr/bin/texi2pdf
+TEXI2HTML=/usr/bin/texi2html
+TEXI2DVI=/opt/local/bin/texi2dvi
+TEXI2PDF=/opt/local/bin/texi2pdf
 MKINSTALLDIRS = ../mkinstalldirs
-DVIPS=/usr/local/texlive/2011/bin/x86_64-linux/dvips
-PERL=/usr/bin/perl
+DVIPS=/usr/texbin/dvips
+PERL=/opt/local/bin/perl
 AUCTEXDATE=2010-02-21
 AUCTEXVERSION=11.86
 PACKAGE_TARNAME=auctex
@@ -53,13 +53,13 @@ PREVIEWTEXIFILES = copying.texi preview-faq.texi macros.texi \
 	preview-readme.texi preview-todo.texi version.texi
 DISTTEXTS = ../README ../INSTALL ../TODO ../INSTALL.windows ../FAQ ../CHANGES
 
-all: dist
+all: 
 
 info: auctex.info preview-latex.info
 
 dvi: auctex.dvi tex-ref.dvi preview-latex.dvi
 
-install: install-auctex install-preview
+install: 
 
 install-man:
 	test x$(packagedir) != xno && \
@@ -110,7 +110,9 @@ auctex.ps: auctex.dvi
 auctex.info: $(AUCTEXTEXIFILES)
 	$(MAKEINFO) auctex.texi
 
-install-auctex: auctex.info tex-ref.pdf
+install-auctex: 
+
+apa:
 	-$(MKINSTALLDIRS) $(DESTDIR)$(infodir)
 	rm -f $(DESTDIR)$(infodir)/auctex $(DESTDIR)$(infodir)/auctex-*
 	$(INSTALL_DATA) auctex.info $(DESTDIR)$(infodir)
@@ -150,7 +152,9 @@ preview-latex.pdf: $(PREVIEWTEXIFILES)
 preview-latex.info: $(PREVIEWTEXIFILES)
 	$(MAKEINFO) preview-latex.texi
 
-install-preview: preview-latex.info
+install-preview: 
+
+apa2:
 	-$(MKINSTALLDIRS) $(DESTDIR)$(infodir)
 	for x in preview-latex.info* ; do \
 		$(INSTALL_DATA) $$x $(DESTDIR)$(infodir) ; \

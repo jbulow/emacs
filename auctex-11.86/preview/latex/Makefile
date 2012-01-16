@@ -22,18 +22,18 @@
 # MA 02110-1301, USA.
 
 
-LATEX=/usr/local/texlive/2011/bin/x86_64-linux/latex
-PDFLATEX=/usr/local/texlive/2011/bin/x86_64-linux/pdflatex
-TEX=/usr/local/texlive/2011/bin/x86_64-linux/tex
-TEXHASH=/usr/local/texlive/2011/bin/x86_64-linux/texhash
+LATEX=/usr/texbin/latex
+PDFLATEX=/usr/texbin/pdflatex
+TEX=/usr/texbin/tex
+TEXHASH=/usr/texbin/texhash
 
 prefix=/usr/local$(null)
 datarootdir=${prefix}/share$(null)
 datadir=${datarootdir}$(null)
 exec_prefix=${prefix}$(null)
 libdir=${exec_prefix}/lib$(null)
-previewtexmfdir = /usr/local/texlive/2011/texmf/tex/latex/preview$(null)
-previewdocdir = /usr/local/texlive/2011/texmf/doc/latex/styles$(null)
+previewtexmfdir = /usr/local/texlive//tex/latex/preview$(null)
+previewdocdir = /usr/local/texlive//doc/latex/styles$(null)
 TEXMFGEN = preview.sty prauctex.def prauctex.cfg prshowbox.def prshowlabels.def prtracingall.def prtightpage.def prlyx.def prcounters.def prfootnotes.def
 
 DESTDIR=
