@@ -22,13 +22,18 @@
 
 (defun prepend-exec-path (path)
   ""
-  (let ((path_w_colon (concat path ":")))
-    (setenv "PATH" (concat path_w_colon (getenv "PATH")))
-    (setq exec-path (cons path_w_colon exec-path ))))
+  (let ((path_w_semicolon (concat path ";")))
+    (setenv "PATH" (concat path_w_semicolon (getenv "PATH")))
+    (setq exec-path (cons path exec-path ))))
 
 
-(if (file-directory-p "C:/Program Files (x86)/Gow/bin")
-    (prepend-exec-path "C:/Program Files (x86)/Gow/bin"))
+
+(if (file-directory-p "C:\\Program Files (x86)\\Gow\\bin")
+    (prepend-exec-path "C:\\Program Files (x86)\\Gow\\bin"))
+
+(if (file-directory-p "C:\\Program Files (x86)\\Git\\bin")
+    (prepend-exec-path "C:\\Program Files (x86)\\Git\\bin"))
+
 
 
 

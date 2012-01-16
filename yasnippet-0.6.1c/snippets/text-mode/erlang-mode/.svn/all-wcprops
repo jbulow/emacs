@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode
+END
+mod
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/mod
+END
+begin
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/begin
+END
+imp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/imp
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/compile
+END
+fun
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/fun
+END
+rcv
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/rcv
+END
+rcv.after
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/rcv.after
+END
+ifndef
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/ifndef
+END
+exp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/exp
+END
+if
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/if
+END
+beh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/beh
+END
+def
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/def
+END
+undef
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/undef
+END
+after
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/after
+END
+loop
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/loop
+END
+inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/inc
+END
+rec
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/rec
+END
+case
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/case
+END
+ifdef
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/ifdef
+END
+inc.lib
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/inc.lib
+END
+try
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/162/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/erlang-mode/try
+END

@@ -1,0 +1,2399 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/652/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode
+END
+llGetParcelDetails.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetParcelDetails.yasnippet
+END
+llGetBoundingBox.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetBoundingBox.yasnippet
+END
+llGetSubString.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetSubString.yasnippet
+END
+llSetRot.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetRot.yasnippet
+END
+llList2Vector.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llList2Vector.yasnippet
+END
+llRequestSecureURL.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRequestSecureURL.yasnippet
+END
+llGetStatus.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetStatus.yasnippet
+END
+llGetAndResetTime.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetAndResetTime.yasnippet
+END
+run_time_permissions.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/run_time_permissions.yasnippet
+END
+llSetPrimitiveParams.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetPrimitiveParams.yasnippet
+END
+llRequestUsername.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/652/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRequestUsername.yasnippet
+END
+llRezAtRoot.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRezAtRoot.yasnippet
+END
+llRotTargetRemove.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRotTargetRemove.yasnippet
+END
+llSetVehicleType.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetVehicleType.yasnippet
+END
+llLoopSoundMaster.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llLoopSoundMaster.yasnippet
+END
+llListen.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llListen.yasnippet
+END
+llStopLookAt.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llStopLookAt.yasnippet
+END
+llEdgeOfWorld.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llEdgeOfWorld.yasnippet
+END
+llGetAgentLanguage.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetAgentLanguage.yasnippet
+END
+llDetectedPos.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDetectedPos.yasnippet
+END
+llRegionSayTo.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/652/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRegionSayTo.yasnippet
+END
+llCollisionSound.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llCollisionSound.yasnippet
+END
+llGetScriptName.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetScriptName.yasnippet
+END
+llSetBuoyancy.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetBuoyancy.yasnippet
+END
+llGetDisplayName.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetDisplayName.yasnippet
+END
+llScriptProfiler.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/652/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llScriptProfiler.yasnippet
+END
+llDetectedTouchBinormal.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDetectedTouchBinormal.yasnippet
+END
+llCSV2List.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llCSV2List.yasnippet
+END
+llGetAgentInfo.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetAgentInfo.yasnippet
+END
+llRot2Axis.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRot2Axis.yasnippet
+END
+touch_end.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/touch_end.yasnippet
+END
+llGetTextureRot.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetTextureRot.yasnippet
+END
+llAcos.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llAcos.yasnippet
+END
+llSetRemoteScriptAccessPin.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetRemoteScriptAccessPin.yasnippet
+END
+llRemoveFromLandBanList.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRemoveFromLandBanList.yasnippet
+END
+llToUpper.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llToUpper.yasnippet
+END
+llSetVehicleVectorParam.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetVehicleVectorParam.yasnippet
+END
+money.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/money.yasnippet
+END
+llDeleteSubString.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDeleteSubString.yasnippet
+END
+llReleaseControls.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llReleaseControls.yasnippet
+END
+llAbs.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llAbs.yasnippet
+END
+llCloud.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llCloud.yasnippet
+END
+llGetLinkKey.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetLinkKey.yasnippet
+END
+llPushObject.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llPushObject.yasnippet
+END
+dataserver.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/dataserver.yasnippet
+END
+llSetCameraParams.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetCameraParams.yasnippet
+END
+llDetectedLinkNumber.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDetectedLinkNumber.yasnippet
+END
+llSleep.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSleep.yasnippet
+END
+llSetLinkColor.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetLinkColor.yasnippet
+END
+llMessageLinked.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llMessageLinked.yasnippet
+END
+llSHA1String.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSHA1String.yasnippet
+END
+llRezObject.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRezObject.yasnippet
+END
+llDetectedKey.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDetectedKey.yasnippet
+END
+llRot2Angle.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRot2Angle.yasnippet
+END
+llGetTime.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetTime.yasnippet
+END
+llDetectedTouchUV.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDetectedTouchUV.yasnippet
+END
+llSetClickAction.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetClickAction.yasnippet
+END
+llSetText.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetText.yasnippet
+END
+llAngleBetween.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llAngleBetween.yasnippet
+END
+llResetTime.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llResetTime.yasnippet
+END
+not_at_target.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/not_at_target.yasnippet
+END
+llRemoveFromLandPassList.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRemoveFromLandPassList.yasnippet
+END
+llGetObjectDesc.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetObjectDesc.yasnippet
+END
+llAtan2.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llAtan2.yasnippet
+END
+llGetInventoryKey.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetInventoryKey.yasnippet
+END
+llDetectedRot.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDetectedRot.yasnippet
+END
+llList2CSV.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llList2CSV.yasnippet
+END
+llList2Integer.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llList2Integer.yasnippet
+END
+llListenRemove.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llListenRemove.yasnippet
+END
+llGetColor.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetColor.yasnippet
+END
+llWater.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llWater.yasnippet
+END
+llGetRegionName.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetRegionName.yasnippet
+END
+timer.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/timer.yasnippet
+END
+llLookAt.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llLookAt.yasnippet
+END
+llParcelMediaQuery.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llParcelMediaQuery.yasnippet
+END
+llGetInventoryPermMask.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetInventoryPermMask.yasnippet
+END
+llTargetOmega.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llTargetOmega.yasnippet
+END
+changed.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/changed.yasnippet
+END
+llBreakLink.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llBreakLink.yasnippet
+END
+llUnSit.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llUnSit.yasnippet
+END
+llDetectedTouchPos.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDetectedTouchPos.yasnippet
+END
+llSetParcelMusicURL.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetParcelMusicURL.yasnippet
+END
+if.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/if.yasnippet
+END
+llResetScript.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llResetScript.yasnippet
+END
+llGetAccel.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetAccel.yasnippet
+END
+llSubStringIndex.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSubStringIndex.yasnippet
+END
+llGetRootPosition.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetRootPosition.yasnippet
+END
+llDetachFromAvatar.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDetachFromAvatar.yasnippet
+END
+llRequestURL.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRequestURL.yasnippet
+END
+llGetLocalPos.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetLocalPos.yasnippet
+END
+llPlaySound.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llPlaySound.yasnippet
+END
+llGetGeometricCenter.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetGeometricCenter.yasnippet
+END
+llCreateLink.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llCreateLink.yasnippet
+END
+llAllowInventoryDrop.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llAllowInventoryDrop.yasnippet
+END
+llAxisAngle2Rot.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llAxisAngle2Rot.yasnippet
+END
+llRequestSimulatorData.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRequestSimulatorData.yasnippet
+END
+llGetParcelFlags.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetParcelFlags.yasnippet
+END
+llGetPermissionsKey.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetPermissionsKey.yasnippet
+END
+llDetectedVel.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDetectedVel.yasnippet
+END
+control.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/control.yasnippet
+END
+llFrand.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llFrand.yasnippet
+END
+email.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/email.yasnippet
+END
+llOpenRemoteDataChannel.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llOpenRemoteDataChannel.yasnippet
+END
+llSetAlpha.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetAlpha.yasnippet
+END
+llRot2Left.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRot2Left.yasnippet
+END
+land_collision.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/land_collision.yasnippet
+END
+llListReplaceList.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llListReplaceList.yasnippet
+END
+llGetRootRotation.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetRootRotation.yasnippet
+END
+llGetOwnerKey.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetOwnerKey.yasnippet
+END
+llPassCollisions.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llPassCollisions.yasnippet
+END
+llSetPrimURL.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetPrimURL.yasnippet
+END
+llGetObjectPermMask.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetObjectPermMask.yasnippet
+END
+llOwnerSay.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llOwnerSay.yasnippet
+END
+llGroundNormal.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGroundNormal.yasnippet
+END
+llRemoveInventory.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRemoveInventory.yasnippet
+END
+llLoopSoundSlave.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llLoopSoundSlave.yasnippet
+END
+llClearPrimMedia.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/652/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llClearPrimMedia.yasnippet
+END
+llBreakAllLinks.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llBreakAllLinks.yasnippet
+END
+llLinks.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llLinks.yasnippet
+END
+llListSort.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llListSort.yasnippet
+END
+llApplyImpulse.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llApplyImpulse.yasnippet
+END
+llSin.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSin.yasnippet
+END
+collision_end.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/collision_end.yasnippet
+END
+llGetUsedMemory.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/652/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetUsedMemory.yasnippet
+END
+llRot2Up.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRot2Up.yasnippet
+END
+llGetRegionFPS.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetRegionFPS.yasnippet
+END
+remote_data.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/remote_data.yasnippet
+END
+object_rez.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/object_rez.yasnippet
+END
+llDialog.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDialog.yasnippet
+END
+llGetMass.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetMass.yasnippet
+END
+llSetSoundQueueing.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetSoundQueueing.yasnippet
+END
+llScaleTexture.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llScaleTexture.yasnippet
+END
+llVecNorm.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llVecNorm.yasnippet
+END
+llGetFreeMemory.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetFreeMemory.yasnippet
+END
+llGetWallclock.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetWallclock.yasnippet
+END
+llGetPrimMediaParams.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/652/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetPrimMediaParams.yasnippet
+END
+llRotBetween.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRotBetween.yasnippet
+END
+llGetLocalRot.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetLocalRot.yasnippet
+END
+llGetTorque.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetTorque.yasnippet
+END
+llFloor.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llFloor.yasnippet
+END
+llSetTextureAnim.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetTextureAnim.yasnippet
+END
+llTeleportAgentHome.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llTeleportAgentHome.yasnippet
+END
+llRemoteLoadScriptPin.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRemoteLoadScriptPin.yasnippet
+END
+llRound.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRound.yasnippet
+END
+llGetNumberOfPrims.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetNumberOfPrims.yasnippet
+END
+llStopHover.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llStopHover.yasnippet
+END
+llSetLocalRot.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetLocalRot.yasnippet
+END
+llForceMouselook.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llForceMouselook.yasnippet
+END
+llStartAnimation.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llStartAnimation.yasnippet
+END
+llHTTPResponse.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llHTTPResponse.yasnippet
+END
+llListenControl.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llListenControl.yasnippet
+END
+llRegionSay.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRegionSay.yasnippet
+END
+llGetRegionFlags.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetRegionFlags.yasnippet
+END
+llRemoteDataReply.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRemoteDataReply.yasnippet
+END
+llWind.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llWind.yasnippet
+END
+llDie.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDie.yasnippet
+END
+llVecMag.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llVecMag.yasnippet
+END
+llGetScriptState.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetScriptState.yasnippet
+END
+llRemoteDataSetRegion.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRemoteDataSetRegion.yasnippet
+END
+llGetNumberOfSides.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetNumberOfSides.yasnippet
+END
+llGetTextureOffset.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetTextureOffset.yasnippet
+END
+llGetObjectName.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetObjectName.yasnippet
+END
+touch_start.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/touch_start.yasnippet
+END
+llGetParcelPrimCount.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetParcelPrimCount.yasnippet
+END
+llDeleteSubList.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDeleteSubList.yasnippet
+END
+llGetTextureScale.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetTextureScale.yasnippet
+END
+llParticleSystem.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llParticleSystem.yasnippet
+END
+llGetCameraPos.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetCameraPos.yasnippet
+END
+do.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/do.yasnippet
+END
+llSetSoundRadius.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetSoundRadius.yasnippet
+END
+llPointAt.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llPointAt.yasnippet
+END
+llSetLinkAlpha.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetLinkAlpha.yasnippet
+END
+elseif.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/elseif.yasnippet
+END
+llSetSitText.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetSitText.yasnippet
+END
+llRot2Euler.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRot2Euler.yasnippet
+END
+llRequestPermissions.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRequestPermissions.yasnippet
+END
+llTriggerSoundLimited.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llTriggerSoundLimited.yasnippet
+END
+llStopAnimation.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llStopAnimation.yasnippet
+END
+llLinkParticleSystem.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/652/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llLinkParticleSystem.yasnippet
+END
+llGetNumberOfNotecardLines.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetNumberOfNotecardLines.yasnippet
+END
+llGetEnergy.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetEnergy.yasnippet
+END
+touch.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/touch.yasnippet
+END
+llGetTexture.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetTexture.yasnippet
+END
+llSetCameraAtOffset.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetCameraAtOffset.yasnippet
+END
+llVolumeDetect.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llVolumeDetect.yasnippet
+END
+collision.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/collision.yasnippet
+END
+llModPow.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llModPow.yasnippet
+END
+llTakeControls.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llTakeControls.yasnippet
+END
+llResetOtherScript.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llResetOtherScript.yasnippet
+END
+llRemoveVehicleFlags.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRemoveVehicleFlags.yasnippet
+END
+llRotLookAt.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRotLookAt.yasnippet
+END
+llWhisper.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llWhisper.yasnippet
+END
+llLoopSound.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llLoopSound.yasnippet
+END
+llListRandomize.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llListRandomize.yasnippet
+END
+llGetAlpha.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetAlpha.yasnippet
+END
+not_at_rot_target.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/not_at_rot_target.yasnippet
+END
+llGetEnv.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/652/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetEnv.yasnippet
+END
+llGetObjectMass.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetObjectMass.yasnippet
+END
+llDetectedTouchST.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDetectedTouchST.yasnippet
+END
+llListInsertList.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llListInsertList.yasnippet
+END
+llDetectedOwner.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDetectedOwner.yasnippet
+END
+llGetLinkName.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetLinkName.yasnippet
+END
+llSetTimerEvent.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetTimerEvent.yasnippet
+END
+llSetStatus.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetStatus.yasnippet
+END
+llGetGMTclock.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetGMTclock.yasnippet
+END
+llList2Key.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llList2Key.yasnippet
+END
+llCastRay.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/652/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llCastRay.yasnippet
+END
+llListFindList.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llListFindList.yasnippet
+END
+llGiveInventory.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGiveInventory.yasnippet
+END
+llDumpList2String.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDumpList2String.yasnippet
+END
+llGetRegionAgentCount.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetRegionAgentCount.yasnippet
+END
+llKey2Name.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llKey2Name.yasnippet
+END
+llGetObjectDetails.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetObjectDetails.yasnippet
+END
+llGetCameraRot.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetCameraRot.yasnippet
+END
+llMapDestination.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llMapDestination.yasnippet
+END
+llOverMyLand.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llOverMyLand.yasnippet
+END
+sensor.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/sensor.yasnippet
+END
+llGetTimeOfDay.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetTimeOfDay.yasnippet
+END
+llList2Rot.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llList2Rot.yasnippet
+END
+llTan.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llTan.yasnippet
+END
+at_target.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/at_target.yasnippet
+END
+jump.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/jump.yasnippet
+END
+llGetLinkNumberOfSides.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/652/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetLinkNumberOfSides.yasnippet
+END
+llEuler2Rot.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llEuler2Rot.yasnippet
+END
+llCos.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llCos.yasnippet
+END
+llScriptDanger.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llScriptDanger.yasnippet
+END
+llGroundRepel.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGroundRepel.yasnippet
+END
+llSetHoverHeight.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetHoverHeight.yasnippet
+END
+default.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/default.yasnippet
+END
+llGetInventoryName.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetInventoryName.yasnippet
+END
+for.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/for.yasnippet
+END
+llGetInventoryType.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetInventoryType.yasnippet
+END
+llGetPos.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetPos.yasnippet
+END
+llGroundSlope.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGroundSlope.yasnippet
+END
+llLoadURL.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llLoadURL.yasnippet
+END
+llStringTrim.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llStringTrim.yasnippet
+END
+llGiveMoney.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGiveMoney.yasnippet
+END
+llClearCameraParams.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llClearCameraParams.yasnippet
+END
+http_response.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/http_response.yasnippet
+END
+llRefreshPrimURL.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRefreshPrimURL.yasnippet
+END
+llGetAnimationList.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetAnimationList.yasnippet
+END
+llGetPermissions.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetPermissions.yasnippet
+END
+attach.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/attach.yasnippet
+END
+llStringToBase64.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llStringToBase64.yasnippet
+END
+llBase64ToString.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llBase64ToString.yasnippet
+END
+llSetCameraEyeOffset.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetCameraEyeOffset.yasnippet
+END
+llEscapeURL.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llEscapeURL.yasnippet
+END
+llParseStringKeepNulls.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llParseStringKeepNulls.yasnippet
+END
+llSetLinkPrimitiveParamsFast.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/652/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetLinkPrimitiveParamsFast.yasnippet
+END
+llStopPointAt.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llStopPointAt.yasnippet
+END
+llInstantMessage.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llInstantMessage.yasnippet
+END
+llGetRegionTimeDilation.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetRegionTimeDilation.yasnippet
+END
+llListStatistics.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llListStatistics.yasnippet
+END
+land_collision_end.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/land_collision_end.yasnippet
+END
+llSetPrimMediaParams.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/652/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetPrimMediaParams.yasnippet
+END
+llGetOmega.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetOmega.yasnippet
+END
+llReleaseCamera.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llReleaseCamera.yasnippet
+END
+llSetLinkTexture.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetLinkTexture.yasnippet
+END
+llGetLinkPrimitiveParams.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/652/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetLinkPrimitiveParams.yasnippet
+END
+llToLower.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llToLower.yasnippet
+END
+llGetStartParameter.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetStartParameter.yasnippet
+END
+llGround.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGround.yasnippet
+END
+llResetLandBanList.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llResetLandBanList.yasnippet
+END
+llSendRemoteData.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSendRemoteData.yasnippet
+END
+llGetListEntryType.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetListEntryType.yasnippet
+END
+llSetTouchText.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetTouchText.yasnippet
+END
+llCloseRemoteDataChannel.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llCloseRemoteDataChannel.yasnippet
+END
+llGiveInventoryList.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGiveInventoryList.yasnippet
+END
+llGroundContour.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGroundContour.yasnippet
+END
+llSensor.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSensor.yasnippet
+END
+llSetForce.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetForce.yasnippet
+END
+llFabs.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llFabs.yasnippet
+END
+llCeil.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llCeil.yasnippet
+END
+llAddToLandPassList.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llAddToLandPassList.yasnippet
+END
+llGetLandOwnerAt.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetLandOwnerAt.yasnippet
+END
+llMoveToTarget.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llMoveToTarget.yasnippet
+END
+while.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/while.yasnippet
+END
+state_exit.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/state_exit.yasnippet
+END
+llSetScriptState.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetScriptState.yasnippet
+END
+llSetObjectDesc.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetObjectDesc.yasnippet
+END
+llList2String.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llList2String.yasnippet
+END
+llModifyLand.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llModifyLand.yasnippet
+END
+llTarget.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llTarget.yasnippet
+END
+llGetHTTPHeader.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetHTTPHeader.yasnippet
+END
+llGetKey.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetKey.yasnippet
+END
+llGetRegionCorner.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetRegionCorner.yasnippet
+END
+llSay.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSay.yasnippet
+END
+llTextBox.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/652/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llTextBox.yasnippet
+END
+llStopSound.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llStopSound.yasnippet
+END
+llRequestInventoryData.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRequestInventoryData.yasnippet
+END
+llPassTouches.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llPassTouches.yasnippet
+END
+llCollisionFilter.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llCollisionFilter.yasnippet
+END
+llGetUnixTime.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetUnixTime.yasnippet
+END
+llSetScale.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetScale.yasnippet
+END
+llGetRot.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetRot.yasnippet
+END
+llIntegerToBase64.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llIntegerToBase64.yasnippet
+END
+llBase64ToInteger.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llBase64ToInteger.yasnippet
+END
+llSitTarget.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSitTarget.yasnippet
+END
+llSetVehicleFlags.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetVehicleFlags.yasnippet
+END
+link_message.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/link_message.yasnippet
+END
+llGetPrimitiveParams.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetPrimitiveParams.yasnippet
+END
+llMD5String.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llMD5String.yasnippet
+END
+llSetTexture.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetTexture.yasnippet
+END
+llDetectedGrab.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDetectedGrab.yasnippet
+END
+llGetAnimation.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetAnimation.yasnippet
+END
+llGetSPMaxMemory.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/652/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetSPMaxMemory.yasnippet
+END
+llGetNextEmail.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetNextEmail.yasnippet
+END
+llStopMoveToTarget.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llStopMoveToTarget.yasnippet
+END
+llGetParcelMaxPrims.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetParcelMaxPrims.yasnippet
+END
+llPreloadSound.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llPreloadSound.yasnippet
+END
+llSetLinkTextureAnim.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/652/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetLinkTextureAnim.yasnippet
+END
+llVecDist.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llVecDist.yasnippet
+END
+llRequestAgentData.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRequestAgentData.yasnippet
+END
+llDetectedTouchFace.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDetectedTouchFace.yasnippet
+END
+llResetLandPassList.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llResetLandPassList.yasnippet
+END
+llGetLinkNumber.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetLinkNumber.yasnippet
+END
+llStringLength.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llStringLength.yasnippet
+END
+llPlaySoundSlave.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llPlaySoundSlave.yasnippet
+END
+llSensorRepeat.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSensorRepeat.yasnippet
+END
+llTriggerSound.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llTriggerSound.yasnippet
+END
+llGetInventoryCreator.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetInventoryCreator.yasnippet
+END
+llEjectFromLand.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llEjectFromLand.yasnippet
+END
+llGetSimulatorHostname.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetSimulatorHostname.yasnippet
+END
+collision_start.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/collision_start.yasnippet
+END
+llApplyRotationalImpulse.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llApplyRotationalImpulse.yasnippet
+END
+llLog.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llLog.yasnippet
+END
+llDetectedName.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDetectedName.yasnippet
+END
+llDetectedType.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDetectedType.yasnippet
+END
+llList2Float.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llList2Float.yasnippet
+END
+llGetVel.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetVel.yasnippet
+END
+llRot2Fwd.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRot2Fwd.yasnippet
+END
+llHTTPRequest.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llHTTPRequest.yasnippet
+END
+llGetCenterOfMass.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetCenterOfMass.yasnippet
+END
+llGetOwner.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetOwner.yasnippet
+END
+llAsin.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llAsin.yasnippet
+END
+llSetDamage.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetDamage.yasnippet
+END
+llAdjustSoundVolume.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llAdjustSoundVolume.yasnippet
+END
+llInsertString.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llInsertString.yasnippet
+END
+llGetCreator.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetCreator.yasnippet
+END
+on_rez.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/on_rez.yasnippet
+END
+llTargetRemove.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llTargetRemove.yasnippet
+END
+llPow.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llPow.yasnippet
+END
+llGetInventoryNumber.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetInventoryNumber.yasnippet
+END
+llAxes2Rot.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llAxes2Rot.yasnippet
+END
+llOffsetTexture.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llOffsetTexture.yasnippet
+END
+llXorBase64StringsCorrect.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llXorBase64StringsCorrect.yasnippet
+END
+llSetPos.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetPos.yasnippet
+END
+llGetListLength.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetListLength.yasnippet
+END
+no_sensor.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/no_sensor.yasnippet
+END
+land_collision_start.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/land_collision_start.yasnippet
+END
+llGetUsername.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/652/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetUsername.yasnippet
+END
+llRotateTexture.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRotateTexture.yasnippet
+END
+llRequestDisplayName.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/652/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRequestDisplayName.yasnippet
+END
+llCollisionSprite.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llCollisionSprite.yasnippet
+END
+llGetFreeURLs.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetFreeURLs.yasnippet
+END
+llEmail.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llEmail.yasnippet
+END
+llSetPayPrice.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetPayPrice.yasnippet
+END
+llList2List.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llList2List.yasnippet
+END
+llSetTorque.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetTorque.yasnippet
+END
+llSetVehicleRotationParam.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetVehicleRotationParam.yasnippet
+END
+llDetectedTouchNormal.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDetectedTouchNormal.yasnippet
+END
+llGetForce.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetForce.yasnippet
+END
+llSameGroup.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSameGroup.yasnippet
+END
+llShout.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llShout.yasnippet
+END
+llAvatarOnSitTarget.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llAvatarOnSitTarget.yasnippet
+END
+llReleaseURL.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llReleaseURL.yasnippet
+END
+llMinEventDelay.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llMinEventDelay.yasnippet
+END
+llSetLinkPrimitiveParams.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetLinkPrimitiveParams.yasnippet
+END
+at_rot_target.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/at_rot_target.yasnippet
+END
+listen.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/listen.yasnippet
+END
+llList2ListStrided.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llList2ListStrided.yasnippet
+END
+.readme
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/.readme
+END
+state_entry.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/state_entry.yasnippet
+END
+llGetAttached.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetAttached.yasnippet
+END
+llGetDate.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetDate.yasnippet
+END
+llParseString2List.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llParseString2List.yasnippet
+END
+llLog10.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llLog10.yasnippet
+END
+llSetObjectName.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetObjectName.yasnippet
+END
+moving_start.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/moving_start.yasnippet
+END
+llUnescapeURL.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llUnescapeURL.yasnippet
+END
+llSensorRemove.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSensorRemove.yasnippet
+END
+llGetScale.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetScale.yasnippet
+END
+llGetAgentSize.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetAgentSize.yasnippet
+END
+llSqrt.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSqrt.yasnippet
+END
+llSetColor.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetColor.yasnippet
+END
+llGetParcelPrimOwners.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetParcelPrimOwners.yasnippet
+END
+llSetForceAndTorque.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetForceAndTorque.yasnippet
+END
+moving_end.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/moving_end.yasnippet
+END
+llDetectedGroup.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llDetectedGroup.yasnippet
+END
+else.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/else.yasnippet
+END
+llParcelMediaCommandList.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llParcelMediaCommandList.yasnippet
+END
+llSetVehicleFloatParam.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llSetVehicleFloatParam.yasnippet
+END
+llGetTimestamp.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetTimestamp.yasnippet
+END
+llAttachToAvatar.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llAttachToAvatar.yasnippet
+END
+llGetSunDirection.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetSunDirection.yasnippet
+END
+llAddToLandBanList.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llAddToLandBanList.yasnippet
+END
+llGetObjectPrimCount.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetObjectPrimCount.yasnippet
+END
+llGetNotecardLine.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llGetNotecardLine.yasnippet
+END
+llRotTarget.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/598/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/lsl-mode/xlsl-mode/llRotTarget.yasnippet
+END

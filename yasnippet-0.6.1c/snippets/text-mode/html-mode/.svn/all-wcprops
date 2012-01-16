@@ -1,0 +1,701 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/711/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode
+END
+script.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/script.yasnippet
+END
+u.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/u.yasnippet
+END
+section.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/section.yasnippet
+END
+class.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/495/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/class.yasnippet
+END
+datalist.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/datalist.yasnippet
+END
+sup.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/sup.yasnippet
+END
+base.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/base.yasnippet
+END
+code.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/code.yasnippet
+END
+dtd.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/484/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/dtd.yasnippet
+END
+button.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/button.yasnippet
+END
+canvas.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/canvas.yasnippet
+END
+embed.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/embed.yasnippet
+END
+optgroup.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/optgroup.yasnippet
+END
+ul.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/ul.yasnippet
+END
+cite.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/cite.yasnippet
+END
+pre.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/pre.yasnippet
+END
+src.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/src.yasnippet
+END
+dd.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/484/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/dd.yasnippet
+END
+ins.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/ins.yasnippet
+END
+mark.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/mark.yasnippet
+END
+summary.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/summary.yasnippet
+END
+footer.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/footer.yasnippet
+END
+legend.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/legend.yasnippet
+END
+time.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/694/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/time.yasnippet
+END
+fieldset.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/fieldset.yasnippet
+END
+dl.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/484/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/dl.yasnippet
+END
+param.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/param.yasnippet
+END
+strike.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/strike.yasnippet
+END
+noscript.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/noscript.yasnippet
+END
+dtd.html5.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/dtd.html5.yasnippet
+END
+menu.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/menu.yasnippet
+END
+video.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/video.yasnippet
+END
+dt.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/484/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/dt.yasnippet
+END
+td.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/td.yasnippet
+END
+area.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/area.yasnippet
+END
+h1.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/h1.yasnippet
+END
+option.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/option.yasnippet
+END
+hr.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/hr.yasnippet
+END
+h3.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/h3.yasnippet
+END
+th.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/th.yasnippet
+END
+meter.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/meter.yasnippet
+END
+img.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/img.yasnippet
+END
+h5.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/h5.yasnippet
+END
+col.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/col.yasnippet
+END
+b.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/b.yasnippet
+END
+figure.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/figure.yasnippet
+END
+keygen.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/keygen.yasnippet
+END
+thead.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/thead.yasnippet
+END
+tr.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/tr.yasnippet
+END
+aside.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/aside.yasnippet
+END
+table.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/table.yasnippet
+END
+dtd.html4transitional.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/511/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/dtd.html4transitional.yasnippet
+END
+caption.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/484/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/caption.yasnippet
+END
+bdi.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/bdi.yasnippet
+END
+p.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/p.yasnippet
+END
+output.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/output.yasnippet
+END
+kbd.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/kbd.yasnippet
+END
+source.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/source.yasnippet
+END
+samp.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/samp.yasnippet
+END
+head.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/head.yasnippet
+END
+em.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/em.yasnippet
+END
+span.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/span.yasnippet
+END
+t.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/t.yasnippet
+END
+form.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/form.yasnippet
+END
+bdo.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/bdo.yasnippet
+END
+hgroup.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/hgroup.yasnippet
+END
+progress.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/711/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/progress.yasnippet
+END
+object.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/object.yasnippet
+END
+abbr.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/abbr.yasnippet
+END
+dfn.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/dfn.yasnippet
+END
+small.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/small.yasnippet
+END
+ol.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/ol.yasnippet
+END
+strong.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/strong.yasnippet
+END
+label.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/label.yasnippet
+END
+select.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/select.yasnippet
+END
+ruby.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/ruby.yasnippet
+END
+title.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/title.yasnippet
+END
+figcaption.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/figcaption.yasnippet
+END
+article.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/article.yasnippet
+END
+mailto.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/mailto.yasnippet
+END
+address.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/address.yasnippet
+END
+meta.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/meta.yasnippet
+END
+wbr.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/wbr.yasnippet
+END
+tfoot.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/tfoot.yasnippet
+END
+input.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/input.yasnippet
+END
+audio.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/audio.yasnippet
+END
+br.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/br.yasnippet
+END
+li.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/li.yasnippet
+END
+html.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/html.yasnippet
+END
+del.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/del.yasnippet
+END
+blockquote.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/blockquote.yasnippet
+END
+h2.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/h2.yasnippet
+END
+h4.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/h4.yasnippet
+END
+h6.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/h6.yasnippet
+END
+textarea.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/textarea.yasnippet
+END
+map.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/map.yasnippet
+END
+command.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/command.yasnippet
+END
+a.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/a.yasnippet
+END
+rp.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/rp.yasnippet
+END
+tbody.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/tbody.yasnippet
+END
+div.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/div.yasnippet
+END
+nav.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/nav.yasnippet
+END
+rt.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/rt.yasnippet
+END
+details.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/details.yasnippet
+END
+header.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/header.yasnippet
+END
+i.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/i.yasnippet
+END
+var.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/var.yasnippet
+END
+sub.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/sub.yasnippet
+END
+colgroup.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/colgroup.yasnippet
+END
+id.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/id.yasnippet
+END
+link.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/link.yasnippet
+END
+body.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/699/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/body.yasnippet
+END
+style.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/style.yasnippet
+END
+q.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/q.yasnippet
+END
+s.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/700/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/s.yasnippet
+END
+iframe.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/698/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/html-mode/iframe.yasnippet
+END

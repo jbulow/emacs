@@ -1,0 +1,899 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/709/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode
+END
+buffer-file-name.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/buffer-file-name.yasnippet
+END
+assq.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/assq.yasnippet
+END
+put.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/put.yasnippet
+END
+point-min.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/point-min.yasnippet
+END
+expand-file-name.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/expand-file-name.yasnippet
+END
+replace-regexp-in-string.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/709/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/replace-regexp-in-string.yasnippet
+END
+number-to-string.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/number-to-string.yasnippet
+END
+delete-region.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/delete-region.yasnippet
+END
+cond.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/cond.yasnippet
+END
+stringp.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/stringp.yasnippet
+END
+add-hook.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/add-hook.yasnippet
+END
+buffer-substring.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/buffer-substring.yasnippet
+END
+region-end.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/region-end.yasnippet
+END
+point.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/point.yasnippet
+END
+error.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/error.yasnippet
+END
+match-beginning.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/match-beginning.yasnippet
+END
+bounds-of-thing-at-point.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/bounds-of-thing-at-point.yasnippet
+END
+find-file.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/find-file.yasnippet
+END
+line-end-position.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/line-end-position.yasnippet
+END
+string-match.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/string-match.yasnippet
+END
+match-end.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/match-end.yasnippet
+END
+kill-buffer.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/kill-buffer.yasnippet
+END
+string=.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/string=.yasnippet
+END
+equal.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/equal.yasnippet
+END
+defvar.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/494/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/defvar.yasnippet
+END
+write-file.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/607/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/write-file.yasnippet
+END
+unless.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/unless.yasnippet
+END
+push.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/push.yasnippet
+END
+yes-or-no-p.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/492/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/yes-or-no-p.yasnippet
+END
+re-search-backward.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/re-search-backward.yasnippet
+END
+beginning-of-line.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/beginning-of-line.yasnippet
+END
+generate-new-buffer.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/generate-new-buffer.yasnippet
+END
+forward-line.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/forward-line.yasnippet
+END
+buffer-substring-no-properties.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/582/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/buffer-substring-no-properties.yasnippet
+END
+dolist.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/dolist.yasnippet
+END
+split-string.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/split-string.yasnippet
+END
+.read_me
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/484/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/.read_me
+END
+condition-case.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/condition-case.yasnippet
+END
+memq.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/memq.yasnippet
+END
+kbd.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/kbd.yasnippet
+END
+when.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/when.yasnippet
+END
+set-buffer.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/set-buffer.yasnippet
+END
+null.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/null.yasnippet
+END
+x-grabthing.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/451/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/x-grabthing.yasnippet
+END
+y-or-n-p.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/492/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/y-or-n-p.yasnippet
+END
+lambda.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/lambda.yasnippet
+END
+length.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/length.yasnippet
+END
+region-beginning.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/region-beginning.yasnippet
+END
+buffer-modified-p.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/buffer-modified-p.yasnippet
+END
+defcustom.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/defcustom.yasnippet
+END
+region-active-p.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/region-active-p.yasnippet
+END
+fboundp.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/fboundp.yasnippet
+END
+defun.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/defun.yasnippet
+END
+vector.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/vector.yasnippet
+END
+with-current-buffer.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/with-current-buffer.yasnippet
+END
+car.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/car.yasnippet
+END
+skip-chars-forward.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/skip-chars-forward.yasnippet
+END
+search-forward.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/search-forward.yasnippet
+END
+file-name-extension.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/file-name-extension.yasnippet
+END
+autoload.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/autoload.yasnippet
+END
+assoc.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/709/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/assoc.yasnippet
+END
+while.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/while.yasnippet
+END
+search-backward-regexp.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/search-backward-regexp.yasnippet
+END
+file-name-nondirectory.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/file-name-nondirectory.yasnippet
+END
+delete-char.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/delete-char.yasnippet
+END
+aref.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/aref.yasnippet
+END
+interactive.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/interactive.yasnippet
+END
+defsubst.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/defsubst.yasnippet
+END
+forward-char.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/forward-char.yasnippet
+END
+get.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/get.yasnippet
+END
+skip-chars-backward.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/skip-chars-backward.yasnippet
+END
+substring.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/substring.yasnippet
+END
+funcall.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/funcall.yasnippet
+END
+apply.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/apply.yasnippet
+END
+backward-char.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/backward-char.yasnippet
+END
+set.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/set.yasnippet
+END
+aset.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/494/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/aset.yasnippet
+END
+if.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/if.yasnippet
+END
+file-name-directory.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/file-name-directory.yasnippet
+END
+search-forward-regexp.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/search-forward-regexp.yasnippet
+END
+looking-at.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/looking-at.yasnippet
+END
+directory-files.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/directory-files.yasnippet
+END
+replace-match.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/708/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/replace-match.yasnippet
+END
+x-file.read-lines.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/451/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/x-file.read-lines.yasnippet
+END
+cdr.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/cdr.yasnippet
+END
+re-search-forward.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/re-search-forward.yasnippet
+END
+string-to-number.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/string-to-number.yasnippet
+END
+copy-directory.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/copy-directory.yasnippet
+END
+point-max.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/point-max.yasnippet
+END
+require.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/require.yasnippet
+END
+make-directory.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/make-directory.yasnippet
+END
+search-backward.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/search-backward.yasnippet
+END
+goto-char.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/goto-char.yasnippet
+END
+shell-command.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/shell-command.yasnippet
+END
+message.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/message.yasnippet
+END
+function.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/function.yasnippet
+END
+line-beginning-position.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/line-beginning-position.yasnippet
+END
+copy-file.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/copy-file.yasnippet
+END
+nth.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/nth.yasnippet
+END
+current-buffer.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/current-buffer.yasnippet
+END
+rassoc.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/709/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/rassoc.yasnippet
+END
+delete-directory.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/delete-directory.yasnippet
+END
+defalias.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/defalias.yasnippet
+END
+file-name-sans-extension.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/493/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/file-name-sans-extension.yasnippet
+END
+list.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/list.yasnippet
+END
+save-excursion.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/save-excursion.yasnippet
+END
+princ.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/princ.yasnippet
+END
+insert-file-contents.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/insert-file-contents.yasnippet
+END
+setq.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/setq.yasnippet
+END
+set-file-modes.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/set-file-modes.yasnippet
+END
+delete-file.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/delete-file.yasnippet
+END
+repeat.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/repeat.yasnippet
+END
+consp.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/consp.yasnippet
+END
+set-mark.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/set-mark.yasnippet
+END
+rename-file.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/rename-file.yasnippet
+END
+f.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/f.yasnippet
+END
+end-of-line.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/end-of-line.yasnippet
+END
+x-find-replace.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/451/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/x-find-replace.yasnippet
+END
+not.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/not.yasnippet
+END
+and.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/and.yasnippet
+END
+mapcar.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/mapcar.yasnippet
+END
+save-buffer.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/save-buffer.yasnippet
+END
+eq.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/eq.yasnippet
+END
+string.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/string.yasnippet
+END
+file-relative-name.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/file-relative-name.yasnippet
+END
+x-grabstring.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/451/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/x-grabstring.yasnippet
+END
+concat.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/concat.yasnippet
+END
+global-set-key.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/global-set-key.yasnippet
+END
+mapc.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/mapc.yasnippet
+END
+or.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/or.yasnippet
+END
+regexp-quote.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/regexp-quote.yasnippet
+END
+progn.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/progn.yasnippet
+END
+make-local-variable.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/make-local-variable.yasnippet
+END
+x-dired.process_marked.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/451/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/x-dired.process_marked.yasnippet
+END
+x-traverse_dir.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/451/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/x-traverse_dir.yasnippet
+END
+match-string.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/match-string.yasnippet
+END
+cons.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/cons.yasnippet
+END
+thing-at-point.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/thing-at-point.yasnippet
+END
+insert.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/insert.yasnippet
+END
+append.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/append.yasnippet
+END
+x-word-or-region.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/451/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/x-word-or-region.yasnippet
+END
+define-key.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/define-key.yasnippet
+END
+custom-autoload.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/custom-autoload.yasnippet
+END
+let.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/let.yasnippet
+END
+format.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/format.yasnippet
+END
+print.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/481/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/print.yasnippet
+END
+widget-get.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/widget-get.yasnippet
+END
+x-file.process.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/451/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/x-file.process.yasnippet
+END
+replace-regexp.yasnippet
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/550/trunk/packages/yasnippet-0.6.1c/snippets/text-mode/emacs-lisp-mode/replace-regexp.yasnippet
+END
