@@ -560,9 +560,9 @@
   "If t, use ido-completing-read instead of completing-read if possible.
 =======
 
-(setq ps-lpr-command "/Users/jonas/bin/ps_print_file.sh")
+(setq ps-lpr-command "~/bin/ps_print_file.sh")
 
-(add-to-list 'load-path "/Users/jonas/emacs" t)
+(add-to-list 'load-path "~/emacs" t)
 (require 'go-mode-load)
 
 
@@ -695,7 +695,7 @@
 
 ;; move the files gnuplot.el to someplace in your lisp load-path or
 ;; use a line like
-(setq load-path (append (list "/home/jonasbu/emacs/gnuplot-mode.0.6.0") load-path))
+(setq load-path (append (list "~/emacs/gnuplot-mode.0.6.0") load-path))
 
 ;; these lines enable the use of gnuplot mode
 (autoload 'gnuplot-mode "gnuplot" "gnuplot major mode" t)
@@ -709,7 +709,7 @@
 ;; gnuplot mode 
 (global-set-key [(f9)] 'gnuplot-make-buffer)
 
-(add-to-list 'Info-default-directory-list "/home/jonasbu/emacs/gnuplot-mode.0.6.0")
+(add-to-list 'Info-default-directory-list "~/emacs/gnuplot-mode.0.6.0")
 
 
 ;; end of line for gnuplot-mode

@@ -19,9 +19,9 @@
       (append '(("\\.h$" . c++-mode)) auto-mode-alist))
 
 
-(setq ps-lpr-command "/Users/jonas/bin/ps_print_file.sh")
+(setq ps-lpr-command "~/bin/ps_print_file.sh")
 
-(add-to-list 'load-path "/Users/jonas/emacs" t)
+(add-to-list 'load-path "~/emacs" t)
 (require 'go-mode-load)
 
 
