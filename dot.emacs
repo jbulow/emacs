@@ -15,8 +15,8 @@
 		   (add-to-list 'load-path
 				(concat emacs-root p))))
   (add-path "")
-  (add-path "org-7.5/lisp")
-  (add-path "org-7.5/contrib/lisp")
+  (add-path "org-7.8.01/lisp")
+  (add-path "org-7.8.01/contrib/lisp")
   (add-path "yasnippet"))
 
 (defun prepend-exec-path (path)
@@ -53,6 +53,7 @@
  '(make-backup-files nil)
  '(ns-command-modifier (quote meta))
  '(show-paren-mode t))
+
 (custom-set-faces
   ;; custom-set-faces was added by Custom.
   ;; If you edit it by hand, you could mess it up, so be careful.
