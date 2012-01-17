@@ -246,7 +246,7 @@
 
 ;;; yasnippet
 (require 'yasnippet) 
-(setq yas/trigger-key (kbd "C-c <kp-multiply>"))
+;;(setq yas/trigger-key (kbd "C-c <kp-multiply>"))
 (yas/initialize)
 (yas/load-directory (concat emacs-root "yasnippet-0.6.1c/snippets"))
 
