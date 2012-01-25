@@ -9,6 +9,16 @@
 		       "My home directory"))
 (setq default-directory home-dir)
 
+
+(defvar dropbox-dir (cond ((eq system-type 'darwin) "~/Dropbox/")
+                          ((eq system-type 'cygwin) "~/")
+                          ((eq system-type 'gnu/linux) "~/Dropbox/")
+                          ((eq system-type 'windows-nt) "~/../../Dropbox/")
+;;                       ((eq system-type 'windows-nt) (concat "c:/Users/" user-login-name))
+		       "My Dropbox directory"))
+
+
+
 (require 'cl) ;; Common Lisp 
 
 (defvar emacs-root (concat home-dir "emacs/")
@@ -1006,6 +1016,25 @@
 ;;
 
 (require 'go-mode-load)
+
+
+;;
+;; Package repositories
+;;
+(require 'package)
+(add-to-list 'package-archives '("marmalade" . "http://marmalade-repo.org/packages/"))
+(add-to-list 'package-archives '("ELPA" . "http://tromey.com/elpa/"))
+
+;;
+;; deft
+;;
+
+(when (require 'deft nil 'noerror) 
+   (setq
+      deft-extension "org"
+      deft-directory (concat dropbox-dir "deft/")
+      deft-text-mode 'org-mode)
+   (global-set-key (kbd "<f9>") 'deft))
 
 ;;
 ;; END
