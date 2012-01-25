@@ -652,7 +652,7 @@
 ;;
 ;;
 
-(iswitchb-mode 1)
+;; (iswitchb-mode 1) ;; Disables vertical listing in ido-mode
 
 ;; (add-to-list 'load-path (expand-file-name "~/emacs/icicles"))
 (add-to-list 'load-path (expand-file-name "~/emacs/icicles"))
