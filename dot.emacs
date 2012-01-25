@@ -7,7 +7,9 @@
                        ((eq system-type 'windows-nt) "~/")
 ;;                       ((eq system-type 'windows-nt) (concat "c:/Users/" user-login-name))
 		       "My home directory"))
-(setq default-directory home-dir)
+
+(when (eq system-type 'windows-nt)
+  (setq default-directory home-dir))
 
 (require 'cl) ;; Common Lisp 
 
@@ -250,6 +252,13 @@
 (yas/initialize)
 (yas/load-directory (concat emacs-root "yasnippet-0.6.1c/snippets"))
 
+(require 'dropdown-list)
+(setq yas/prompt-functions
+      '(yas/dropdown-prompt
+        yas/ido-prompt
+        yas/x-prompt
+        yas/completing-prompt
+        yas/no-prompt))
 ;;
 ;; Ido mode
 ;;
@@ -652,7 +661,7 @@
 ;;
 ;;
 
-(iswitchb-mode 1)
+;;(iswitchb-mode 1)
 
 ;; (add-to-list 'load-path (expand-file-name "~/emacs/icicles"))
 (add-to-list 'load-path (expand-file-name "~/emacs/icicles"))
