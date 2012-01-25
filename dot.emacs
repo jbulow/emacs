@@ -1007,6 +1007,14 @@
 
 (require 'go-mode-load)
 
+
+;;
+;; Package repositories
+;;
+
+(add-to-list 'package-archives '("marmalade" . "http://marmalade-repo.org/packages/"))
+
+
 ;;
 ;; END
 ;;
