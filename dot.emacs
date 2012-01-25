@@ -11,6 +11,16 @@
 (when (eq system-type 'windows-nt)
   (setq default-directory home-dir))
 
+
+(defvar dropbox-dir (cond ((eq system-type 'darwin) "~/Dropbox/")
+                          ((eq system-type 'cygwin) "~/")
+                          ((eq system-type 'gnu/linux) "~/Dropbox/")
+                          ((eq system-type 'windows-nt) "~/../../Dropbox/")
+;;                       ((eq system-type 'windows-nt) (concat "c:/Users/" user-login-name))
+		       "My Dropbox directory"))
+
+
+
 (require 'cl) ;; Common Lisp 
 
 (defvar emacs-root (concat home-dir "emacs/")
@@ -80,9 +90,9 @@
   ;; If you edit it by hand, you could mess it up, so be careful.
   ;; Your init file should contain only one such instance.
   ;; If there is more than one, they won't work right.
- '(TeX-view-predicate-list (quote ((darwin-system (eq system-type (quote darwin))) (linux-system (eq system-type (quote gnu/linux))))))
- '(TeX-view-program-list (quote (("Open" "open %o"))))
- '(TeX-view-program-selection (quote (((output-dvi style-pstricks) "dvips and gv") (output-dvi "xdvi") ((output-pdf linux-system) "Evince") (output-html "xdg-open") ((output-pdf darwin-system) "Open"))))
+ '(TeX-view-predicate-list (quote ((darwin-system (eq system-type (quote darwin))) (linux-system (eq system-type (quote gnu/linux))) (windows-system (eq system-type (quote windows-nt))))))
+ '(TeX-view-program-list (quote (("Open" "open %o") ("AcroRead" "start %o"))))
+ '(TeX-view-program-selection (quote (((output-dvi style-pstricks) "dvips and gv") (output-dvi "xdvi") ((output-pdf linux-system) "Evince") ((output-pdf darwin-system) "Open") ((windows-system output-pdf) "AcroRead"))))
  '(column-number-mode t)
  '(make-backup-files nil)
  '(ns-command-modifier (quote meta))
@@ -1015,6 +1025,25 @@
 ;;
 
 (require 'go-mode-load)
+
+
+;;
+;; Package repositories
+;;
+(require 'package)
+(add-to-list 'package-archives '("marmalade" . "http://marmalade-repo.org/packages/"))
+(add-to-list 'package-archives '("ELPA" . "http://tromey.com/elpa/"))
+
+;;
+;; deft
+;;
+
+(when (require 'deft nil 'noerror) 
+   (setq
+      deft-extension "org"
+      deft-directory (concat dropbox-dir "deft/")
+      deft-text-mode 'org-mode)
+   (global-set-key (kbd "<f9>") 'deft))
 
 ;;
 ;; END
