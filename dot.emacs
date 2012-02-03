@@ -1017,7 +1017,6 @@
 
 (require 'go-mode-load)
 
-
 ;;
 ;; Package repositories
 ;;
