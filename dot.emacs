@@ -672,7 +672,7 @@
 ;;
 ;;
 
-;;(iswitchb-mode 1)
+;; (iswitchb-mode 1) ;; Disables/breaks vertical listing in ido-mode when enabled
 
 ;; (add-to-list 'load-path (expand-file-name "~/emacs/icicles"))
 (add-to-list 'load-path (expand-file-name "~/emacs/icicles"))
@@ -1027,13 +1027,12 @@
 
 (require 'go-mode-load)
 
-
 ;;
 ;; Package repositories
 ;;
-(require 'package)
-(add-to-list 'package-archives '("marmalade" . "http://marmalade-repo.org/packages/"))
-(add-to-list 'package-archives '("ELPA" . "http://tromey.com/elpa/"))
+(when (require 'package nil 'noerror)
+  (add-to-list 'package-archives '("marmalade" . "http://marmalade-repo.org/packages/"))
+  (add-to-list 'package-archives '("ELPA" . "http://tromey.com/elpa/")))
 
 ;;
 ;; deft
