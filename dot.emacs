@@ -5,8 +5,8 @@
                        ((eq system-type 'cygwin) "~/")
                        ((eq system-type 'gnu/linux) "~/")
                        ((eq system-type 'windows-nt) "~/")
-;;                       ((eq system-type 'windows-nt) (concat "c:/Users/" user-login-name))
-		       "My home directory"))
+                       ;;                       ((eq system-type 'windows-nt) (concat "c:/Users/" user-login-name))
+                       "My home directory"))
 
 (when (eq system-type 'windows-nt)
   (setq default-directory home-dir))
@@ -30,13 +30,14 @@
 ;; Additional load paths
 ;;
 (labels ((add-path (p)
-		   (add-to-list 'load-path
-				(concat emacs-root p))))
+                   (add-to-list 'load-path
+                                (concat emacs-root p))))
   (add-path "")
   (add-path "org-7.8.01/lisp")
   (add-path "org-7.8.01/contrib/lisp")
   (add-path "yasnippet-0.6.1c")
   (add-path "auctex-11.86")
+  (add-path "ipa")
   (add-path "anything-config"))
 
 
@@ -1112,7 +1113,5 @@
              anything-c-source-emacs-lisp-expectations
              anything-c-source-emacs-lisp-toplevels
              anything-c-source-emacs-functions-with-abbrevs
-             anything-c-source-info-emacs))))
-
-(global-set-key "\C-c\C-c" 'anything)
-    
+             anything-c-source-info-emacs))))))
+   
