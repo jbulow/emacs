@@ -93,13 +93,14 @@
  '(TeX-view-predicate-list (quote ((darwin-system (eq system-type (quote darwin))) (linux-system (eq system-type (quote gnu/linux))) (windows-system (eq system-type (quote windows-nt))))))
  '(TeX-view-program-list (quote (("Open" "open %o") ("AcroRead" "start %o"))))
  '(TeX-view-program-selection (quote (((output-dvi style-pstricks) "dvips and gv") (output-dvi "xdvi") ((output-pdf linux-system) "Evince") ((output-pdf darwin-system) "Open") ((windows-system output-pdf) "AcroRead"))))
+ '(anything-for-files-prefered-list (quote (anything-c-source-etags anything-c-source-ffap-line anything-c-source-ffap-guesser anything-c-source-buffers+ anything-c-source-recentf anything-c-source-bookmarks anything-c-source-file-cache anything-c-source-files-in-current-dir+ anything-c-source-locate)))
  '(column-number-mode t)
+ '(grep-files-aliases (quote (("asm" . "*.[sS]") ("c" . "*.c") ("cc" . "*.cc *.cxx *.cpp *.C *.CC *.c++") ("ch" . "*.[ch]") ("el" . "*.el") ("h" . "*.h") ("l" . "[Cc]hange[Ll]og*") ("m" . "[Mm]akefile*") ("tex" . "*.tex") ("texi" . "*.texi") ("cch" . "*.c *.cc *.h *.[ch]xx *.[ch]pp *.[CH] *.CC *.HH *.[ch]++"))))
  '(make-backup-files nil)
  '(ns-command-modifier (quote meta))
  '(show-paren-mode t)
  '(size-indication-mode t)
- '(tool-bar-mode nil)
- '(grep-files-aliases (quote (("asm" . "*.[sS]") ("c" . "*.c") ("cc" . "*.cc *.cxx *.cpp *.C *.CC *.c++") ("ch" . "*.[ch]") ("el" . "*.el") ("h" . "*.h") ("l" . "[Cc]hange[Ll]og*") ("m" . "[Mm]akefile*") ("tex" . "*.tex") ("texi" . "*.texi") ("cch" . "*.c *.cc *.h *.[ch]xx *.[ch]pp *.[CH] *.CC *.HH *.[ch]++")))))
+ '(tool-bar-mode nil))
 
 (custom-set-faces
   ;; custom-set-faces was added by Custom.
@@ -1027,12 +1028,6 @@
 
 (require 'go-mode-load)
 
-;;
-;; Package repositories
-;;
-(when (require 'package nil 'noerror)
-  (add-to-list 'package-archives '("marmalade" . "http://marmalade-repo.org/packages/"))
-  (add-to-list 'package-archives '("ELPA" . "http://tromey.com/elpa/")))
 
 ;;
 ;; deft
@@ -1061,4 +1056,23 @@
 ;;
 
 (server-start)
+
+
+
+;;; This was installed by package-install.el.
+;;; This provides support for the package system and
+;;; interfacing with ELPA, the package archive.
+;;; Move this code earlier if you want to reference
+;;; packages in your .emacs.
+;; (when
+;;     (load
+;;      (expand-file-name "~/.emacs.d/elpa/package.el"))
+;;   (package-initialize))
+
+;;
+;; Package repositories
+;;
+(when (require 'package nil 'noerror)
+  (add-to-list 'package-archives '("marmalade" . "http://marmalade-repo.org/packages/"))
+  (add-to-list 'package-archives '("ELPA" . "http://tromey.com/elpa/")))
 
