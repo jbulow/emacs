@@ -5,9 +5,11 @@
                        ((eq system-type 'cygwin) "~/")
                        ((eq system-type 'gnu/linux) "~/")
                        ((eq system-type 'windows-nt) "~/")
-;;                       ((eq system-type 'windows-nt) (concat "c:/Users/" user-login-name))
-		       "My home directory"))
-(setq default-directory home-dir)
+                       ;;                       ((eq system-type 'windows-nt) (concat "c:/Users/" user-login-name))
+                       "My home directory"))
+
+(when (eq system-type 'windows-nt)
+  (setq default-directory home-dir))
 
 
 (defvar dropbox-dir (cond ((eq system-type 'darwin) "~/Dropbox/")
@@ -28,13 +30,15 @@
 ;; Additional load paths
 ;;
 (labels ((add-path (p)
-		   (add-to-list 'load-path
-				(concat emacs-root p))))
+                   (add-to-list 'load-path
+                                (concat emacs-root p))))
   (add-path "")
   (add-path "org-7.8.01/lisp")
   (add-path "org-7.8.01/contrib/lisp")
   (add-path "yasnippet-0.6.1c")
-  (add-path "auctex-11.86"))
+  (add-path "auctex-11.86")
+  (add-path "ipa")
+  (add-path "anything-config"))
 
 
 ;;
@@ -91,12 +95,18 @@
  '(TeX-view-predicate-list (quote ((darwin-system (eq system-type (quote darwin))) (linux-system (eq system-type (quote gnu/linux))) (windows-system (eq system-type (quote windows-nt))))))
  '(TeX-view-program-list (quote (("Open" "open %o") ("AcroRead" "start %o"))))
  '(TeX-view-program-selection (quote (((output-dvi style-pstricks) "dvips and gv") (output-dvi "xdvi") ((output-pdf linux-system) "Evince") ((output-pdf darwin-system) "Open") ((windows-system output-pdf) "AcroRead"))))
+ '(anything-for-files-prefered-list (quote (anything-c-source-ffap-line anything-c-source-ffap-guesser anything-c-source-buffers+ anything-c-source-recentf anything-c-source-bookmarks anything-c-source-file-cache anything-c-source-files-in-current-dir+ anything-c-source-locate)))
  '(column-number-mode t)
  '(ispell-program-name "aspell")
+ '(grep-files-aliases (quote (("asm" . "*.[sS]") ("c" . "*.c") ("cc" . "*.cc *.cxx *.cpp *.C *.CC *.c++") ("ch" . "*.[ch]") ("el" . "*.el") ("h" . "*.h") ("l" . "[Cc]hange[Ll]og*") ("m" . "[Mm]akefile*") ("tex" . "*.tex") ("texi" . "*.texi") ("cch" . "*.c *.cc *.h *.[ch]xx *.[ch]pp *.[CH] *.CC *.HH *.[ch]++"))))
+ '(large-file-warning-threshold 30000000)
  '(make-backup-files nil)
+ '(mouse-wheel-scroll-amount (quote (1 ((shift) . 5) ((control)))))
  '(ns-command-modifier (quote meta))
+ '(safe-local-variable-values (quote ((compilation-search-path (list (nil "/disk/jonasbu/DEV-References-clean/packages/commons/components/C3Po/"))) (compilation-search-path (list (nil "/disk/jonasbu/DEV-References/packages/commons/components/C3Po/"))) (compilation-search-path (list (nil "/disk/jonasbu/DEV-References-INT/packages/commons/components/C3Po/"))))))
  '(show-paren-mode t)
  '(size-indication-mode t)
+ '(split-width-threshold nil)
  '(tool-bar-mode nil))
 
 (custom-set-faces
@@ -261,6 +271,13 @@
 (yas/initialize)
 (yas/load-directory (concat emacs-root "yasnippet-0.6.1c/snippets"))
 
+(require 'dropdown-list)
+(setq yas/prompt-functions
+      '(yas/dropdown-prompt
+        yas/ido-prompt
+        yas/x-prompt
+        yas/completing-prompt
+        yas/no-prompt))
 ;;
 ;; Ido mode
 ;;
@@ -663,7 +680,7 @@
 ;;
 ;;
 
-;; (iswitchb-mode 1) ;; Disables vertical listing in ido-mode
+;; (iswitchb-mode 1) ;; Disables/breaks vertical listing in ido-mode when enabled
 
 ;; (add-to-list 'load-path (expand-file-name "~/emacs/icicles"))
 (add-to-list 'load-path (expand-file-name "~/emacs/icicles"))
@@ -972,8 +989,8 @@
 ;;
 ;; auctex
 ;;
-(load "auctex.el" nil t t)
-(load "preview-latex.el" nil t t)
+;;(load "auctex.el" nil t t)
+;;(load "preview-latex.el" nil t t)
 
 (setq TeX-save-query nil) ;;autosave before compiling
 
@@ -1018,12 +1035,6 @@
 
 (require 'go-mode-load)
 
-;;
-;; Package repositories
-;;
-(when (require 'package nil 'noerror)
-  (add-to-list 'package-archives '("marmalade" . "http://marmalade-repo.org/packages/"))
-  (add-to-list 'package-archives '("ELPA" . "http://tromey.com/elpa/")))
 
 ;;
 ;; deft
@@ -1035,6 +1046,17 @@
       deft-directory (concat dropbox-dir "deft/")
       deft-text-mode 'org-mode)
    (global-set-key (kbd "<f9>") 'deft))
+
+
+;;
+;; etags related
+;;
+
+(require 'etags-select)
+(global-set-key "\M-?" 'etags-select-find-tag-at-point)
+(global-set-key "\M-." 'etags-select-find-tag)
+
+
 
 ;;
 ;; aspell
@@ -1051,3 +1073,60 @@
 
 (server-start)
 
+
+
+;;; This was installed by package-install.el.
+;;; This provides support for the package system and
+;;; interfacing with ELPA, the package archive.
+;;; Move this code earlier if you want to reference
+;;; packages in your .emacs.
+;; (when
+;;     (load
+;;      (expand-file-name "~/.emacs.d/elpa/package.el"))
+;;   (package-initialize))
+
+;;
+;; Package repositories
+;;
+(when (require 'package nil 'noerror)
+  (add-to-list 'package-archives '("marmalade" . "http://marmalade-repo.org/packages/"))
+  (add-to-list 'package-archives '("ELPA" . "http://tromey.com/elpa/")))
+
+;;
+;; anything
+;;
+
+
+;; (require 'anything-config)
+;; 
+;; (global-set-key (kbd "C-c I")  ;; i -> info
+;;   (lambda () (interactive)
+;;     (anything
+;;       :prompt "Info about: "
+;;       :candidate-number-limit 3
+;;       :sources
+;;       '( anything-c-source-info-libc             ;; glibc docs
+;;          anything-c-source-man-pages             ;; man pages
+;;          anything-c-source-info-emacs))))        ;; emacs
+;; 
+;; (add-hook 'emacs-lisp-mode-hook
+;;   (lambda()
+;;   ;; other stuff...
+;;   ;; ...
+;;   ;; put useful info under C-c i
+;;     (local-set-key (kbd "C-c i")
+;;       (lambda() (interactive)
+;;         (anything
+;;           :prompt "Info about: "
+;;           :candidate-number-limit 5
+;;           :sources
+;;           '( anything-c-source-emacs-functions
+;;              anything-c-source-emacs-variables
+;;              anything-c-source-info-elisp
+;;              anything-c-source-emacs-commands
+;;              anything-c-source-emacs-source-defun
+;;              anything-c-source-emacs-lisp-expectations
+;;              anything-c-source-emacs-lisp-toplevels
+;;              anything-c-source-emacs-functions-with-abbrevs
+;;              anything-c-source-info-emacs))))))
+;;    
