@@ -92,6 +92,7 @@
  '(TeX-view-program-list (quote (("Open" "open %o") ("AcroRead" "start %o"))))
  '(TeX-view-program-selection (quote (((output-dvi style-pstricks) "dvips and gv") (output-dvi "xdvi") ((output-pdf linux-system) "Evince") ((output-pdf darwin-system) "Open") ((windows-system output-pdf) "AcroRead"))))
  '(column-number-mode t)
+ '(ispell-program-name "aspell")
  '(make-backup-files nil)
  '(ns-command-modifier (quote meta))
  '(show-paren-mode t)
@@ -1034,6 +1035,15 @@
       deft-directory (concat dropbox-dir "deft/")
       deft-text-mode 'org-mode)
    (global-set-key (kbd "<f9>") 'deft))
+
+;;
+;; aspell
+;;
+
+(setq ispell-program-name "aspell")
+(setq ispell-list-command "list")
+;;(setq ispell-extra-args '("--sug-mode=ultra"))
+
 
 ;;
 ;; END
