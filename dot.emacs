@@ -1,5 +1,6 @@
 ; -*- mode: Lisp; tab-width: 2; -*-
 ;;; Emacs Load Path
+;;
 
 (defvar home-dir (cond ((eq system-type 'darwin) "~/")
                        ((eq system-type 'cygwin) "~/")
